@@ -1,1 +1,1 @@
-# um6p-chemistry-kg
+# UM6P knowledge graph from chimestry papers using NLP AND GRAPHS
