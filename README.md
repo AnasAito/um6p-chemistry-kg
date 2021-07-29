@@ -40,3 +40,12 @@ In this notebook, we give the code for the knowledge graph creation
 
 ## Data 
 The data is extracted from the Web of Science database, the papers used for the graph creation are chemistry papers
+
+## Results 
+- we use Gephy for graph visualition 
+ ![image](https://user-images.githubusercontent.com/56308112/127575932-df2a58bd-dba9-475e-9768-9fe96edd7f0d.png)
+![image](https://user-images.githubusercontent.com/56308112/127576019-1128e09a-5106-4d84-a406-18b1ef2f1e20.png)
+
+- the graph can be used eventualy to feed a client app (to be done in the future)
+- you can find edges list in the data folder 
+
