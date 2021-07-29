@@ -1,0 +1,3709 @@
+source,target,weight
+phosphorus,Materials,3
+phosphorus,Solutions,1
+phosphorus,Ions,1
+phosphorus,cellulose,1
+phosphorus,analysis,1
+phosphorus,Anions,1
+phosphorus,Phosphonates,1
+phosphorus,metal oxide,1
+phosphorus,apatites,1
+phosphorus,samples,1
+phosphorus,Bovin Serum Albumin,1
+phosphorus,Molecule,2
+phosphorus,chemical elements,1
+phosphorus,hydronium ion,1
+phosphorus,H3O+,1
+phosphorus,hydrogen atom and ion,1
+phosphorus,hydroxide ion,1
+phosphorus,phosphoryl chloride,1
+phosphorus,hexachlorocyclotriphosphazene,1
+phosphorus,modified cellulose,1
+phosphorus,carboxymethylcellulose analogues,1
+Materials,phosphorus,3
+Materials,Biguanides,1
+Materials,compounds,2
+Materials,nitrogen,1
+Materials,metformin,1
+Materials,chlorhexidine,1
+Materials,gold,1
+Materials,Metals,3
+Materials,polysaccharides,1
+Materials,alginate,2
+Materials,bentonite,1
+Materials,PS,1
+Materials,cadmium,1
+Materials,Solutions,4
+Materials,Freeze Drying,2
+Materials,Ions,2
+Materials,cellulose,1
+Materials,"Spectroscopy, Fourier Transform Infrared",1
+Materials,analysis,2
+Materials,Laboratory Procedures,2
+Materials,X-Ray Diffraction,5
+Materials,manganese oxide,1
+Materials,heavy metals,1
+Materials,Pb2+,1
+Materials,manganese,3
+Materials,natural material,1
+Materials,"Chemistry Techniques, Analytical",1
+Materials,scanning electron microscopy,2
+Materials,Carbon,1
+Materials,activated carbon,1
+Materials,waste product,1
+Materials,hydrate,1
+Materials,chemical extraction,1
+Materials,Microscopic observations,1
+Materials,methylene blue,2
+Materials,MIC,1
+Materials,MBC,1
+Materials,BDT,1
+Materials,succinic anhydride,1
+Materials,"1,4-butanediol",1
+Materials,water,1
+Materials,bismuth chloride,1
+Materials,water vapor,1
+Materials,Biopolymers,1
+Materials,gelatin,1
+Materials,catechol,1
+Materials,lithium,1
+Materials,nickel,1
+Materials,metal oxide,2
+Materials,oxygen,1
+Materials,soft X-ray absorption spectroscopy,1
+Materials,Electrons,3
+Materials,electron microscopy analysis,1
+Materials,Phenol,1
+Materials,apatites,1
+Materials,samples,3
+Materials,Bovin Serum Albumin,1
+Materials,Molecule,2
+Materials,"Spectrum Analysis, Raman",1
+Materials,epsilon-caprolactone,1
+Materials,poly(epsilon-caprolactone,1
+Materials,tin,1
+Materials,Crystallography,1
+Materials,neodymium,1
+Materials,TEM,1
+Materials,substituted,1
+Materials,intramolecular charge transfer,1
+Materials,Chemical method,1
+Materials,Oxides,1
+Materials,charge transfer,1
+Materials,catechol oxidation,1
+Materials,tap water,1
+Materials,titania,1
+Materials,carboxymethylcellulose,1
+Materials,Thermogravimetry,1
+Materials,transmission electron microscopy,1
+Materials,anatase,1
+Materials,rutile,1
+Materials,air,1
+Materials,Analysis,1
+Materials,calcium amount,1
+Materials,ZnO,1
+Materials,infrared spectroscopy,1
+Materials,prowess,1
+Materials,chemical elements,1
+Materials,hydronium ion,1
+Materials,H3O+,1
+Materials,hydrogen atom and ion,1
+Materials,hydroxide ion,1
+Materials,nitrides,1
+Materials,ammonia,1
+Materials,in situ neutron diffraction studies,1
+Biguanides,Materials,1
+Biguanides,compounds,1
+Biguanides,nitrogen,1
+Biguanides,metformin,1
+Biguanides,chlorhexidine,1
+Biguanides,gold,1
+Biguanides,Metals,1
+compounds,Materials,2
+compounds,Biguanides,1
+compounds,nitrogen,1
+compounds,metformin,1
+compounds,chlorhexidine,1
+compounds,gold,1
+compounds,Metals,1
+compounds,Spectrum Analysis,1
+compounds,Solutions,1
+compounds,"Spectroscopy, Fourier Transform Infrared",1
+compounds,analysis,3
+compounds,"Nitrogen Compounds, Inorganic",2
+compounds,B-RAF inhibitor,1
+compounds,PLX4032,1
+compounds,frameworks,1
+compounds,X-Ray Diffraction,3
+compounds,Phytochemicals,2
+compounds,phenolic acids,2
+compounds,Flavonoids,2
+compounds,glycoside derivatives,1
+compounds,Esculetin,1
+compounds,quercetin 3-O-beta-D-glucuronide,1
+compounds,Mass Spectrometry,2
+compounds,kaempferol-3-O-glucuronide,1
+compounds,esculetin,1
+compounds,Enzymes,1
+compounds,assay,1
+compounds,collagenase,1
+compounds,elastase,1
+compounds,hyaluronidase,1
+compounds,scanning electron microscopy,1
+compounds,"Crystallography, X-Ray",2
+compounds,MIC,1
+compounds,MBC,1
+compounds,butanol extract,1
+compounds,gelatin,1
+compounds,insulin,1
+compounds,amino acids,1
+compounds,fatty acids,1
+compounds,carbohydrates,1
+compounds,Alkynes,1
+compounds,Alkenes,1
+compounds,Molecule,2
+compounds,benzoic acid,1
+compounds,para-hydroxybenzoic acid,1
+compounds,"3,4-dihydroxybenzoic acid",1
+compounds,Dielectric Spectroscopy,1
+compounds,iron,2
+compounds,"Spectrum Analysis, Raman",2
+compounds,Oxides,1
+compounds,charge transfer,1
+compounds,Tetraphenyl,1
+compounds,imidazole,1
+compounds,MEP,1
+compounds,DMF,1
+compounds,Schiff Bases,1
+compounds,air,2
+compounds,Analysis,1
+compounds,calcium amount,1
+compounds,"Spectroscopy, Mossbauer",1
+compounds,magnetite,1
+compounds,Isoxazoles,1
+compounds,Aldehydes,1
+compounds,hydroxylamine hydrochloride,1
+compounds,5b,1
+compounds,chloroquine,1
+compounds,DMSO,1
+compounds,antiviral brincidofovir,1
+compounds,imidazole ring,1
+compounds,M,1
+compounds,ferric ion,1
+compounds,Scanning electron microscopy,1
+compounds,cells,1
+nitrogen,Materials,1
+nitrogen,Biguanides,1
+nitrogen,compounds,1
+nitrogen,metformin,1
+nitrogen,chlorhexidine,1
+nitrogen,gold,1
+nitrogen,Metals,1
+nitrogen,X-Ray Photoelectron Spectroscopy,1
+nitrogen,copper,1
+nitrogen,Microscopy,1
+nitrogen,crystal lattice,1
+nitrogen,indole,1
+nitrogen,aryl bromides,1
+nitrogen,cupric cation,1
+nitrogen,KBr,1
+metformin,Materials,1
+metformin,Biguanides,1
+metformin,compounds,1
+metformin,nitrogen,1
+metformin,chlorhexidine,1
+metformin,gold,1
+metformin,Metals,1
+chlorhexidine,Materials,1
+chlorhexidine,Biguanides,1
+chlorhexidine,compounds,1
+chlorhexidine,nitrogen,1
+chlorhexidine,metformin,1
+chlorhexidine,gold,1
+chlorhexidine,Metals,1
+gold,Materials,1
+gold,Biguanides,1
+gold,compounds,1
+gold,nitrogen,1
+gold,metformin,1
+gold,chlorhexidine,1
+gold,Metals,1
+Metals,Materials,3
+Metals,Biguanides,1
+Metals,compounds,1
+Metals,nitrogen,1
+Metals,metformin,1
+Metals,chlorhexidine,1
+Metals,gold,1
+Metals,Laboratory Procedures,1
+Metals,manganese oxide,1
+Metals,heavy metals,1
+Metals,Pb2+,1
+Metals,manganese,1
+Metals,natural material,1
+Spectrum Analysis,compounds,1
+Spectrum Analysis,chlorophyll a,1
+Spectrum Analysis,proteins,1
+Spectrum Analysis,polysaccharides,1
+Spectrum Analysis,"Spectroscopy, Fourier Transform Infrared",1
+Spectrum Analysis,analysis,2
+Spectrum Analysis,X-Ray Diffraction,1
+Spectrum Analysis,scanning electron microscopy,1
+Spectrum Analysis,"Crystallography, X-Ray",1
+Spectrum Analysis,MIC,1
+Spectrum Analysis,MBC,1
+Spectrum Analysis,water,2
+Spectrum Analysis,Biopolymers,1
+Spectrum Analysis,Alkynes,1
+Spectrum Analysis,alpha-chitin,1
+Spectrum Analysis,Chemical method,1
+Spectrum Analysis,soil,1
+Spectrum Analysis,Microscopy,1
+Spectrum Analysis,alpha-amino acid derivative,1
+Spectrum Analysis,perfluorocarbons,1
+Spectrum Analysis,Singlet oxygen lifetime,1
+Spectrum Analysis,perfluorodecalin,1
+chlorophyll a,Spectrum Analysis,1
+chlorophyll a,proteins,1
+chlorophyll a,polysaccharides,1
+proteins,Spectrum Analysis,1
+proteins,chlorophyll a,1
+proteins,polysaccharides,1
+proteins,nucleic acid analysis,1
+polysaccharides,Materials,1
+polysaccharides,Spectrum Analysis,1
+polysaccharides,chlorophyll a,1
+polysaccharides,proteins,1
+polysaccharides,alginate,1
+polysaccharides,Freeze Drying,1
+polysaccharides,"Spectroscopy, Fourier Transform Infrared",1
+polysaccharides,X-Ray Diffraction,1
+polysaccharides,scanning electron microscopy,1
+polysaccharides,Biopolymers,1
+polysaccharides,gelatin,1
+polysaccharides,samples,1
+polysaccharides,Crystallography,1
+polysaccharides,TEM,1
+polysaccharides,titania,1
+polysaccharides,carboxymethylcellulose,1
+polysaccharides,Thermogravimetry,1
+polysaccharides,transmission electron microscopy,1
+polysaccharides,anatase,1
+polysaccharides,rutile,1
+alginate,Materials,2
+alginate,polysaccharides,1
+alginate,bentonite,1
+alginate,PS,1
+alginate,cadmium,1
+alginate,Solutions,1
+alginate,Freeze Drying,2
+alginate,Ions,1
+alginate,"Spectroscopy, Fourier Transform Infrared",1
+alginate,X-Ray Diffraction,2
+alginate,scanning electron microscopy,1
+alginate,water,1
+alginate,Biopolymers,1
+alginate,gelatin,1
+alginate,samples,1
+alginate,Crystallography,1
+alginate,TEM,1
+alginate,Lignin,1
+alginate,Oxides,1
+alginate,titania,1
+alginate,carboxymethylcellulose,1
+alginate,Thermogravimetry,1
+alginate,transmission electron microscopy,1
+alginate,anatase,1
+alginate,rutile,1
+alginate,size exclusion chromatography,1
+alginate,aromatic compounds,1
+bentonite,Materials,1
+bentonite,alginate,1
+bentonite,PS,1
+bentonite,cadmium,1
+bentonite,Solutions,1
+bentonite,Freeze Drying,1
+bentonite,Ions,1
+PS,Materials,1
+PS,alginate,1
+PS,bentonite,1
+PS,cadmium,1
+PS,Solutions,1
+PS,Freeze Drying,1
+PS,Ions,1
+cadmium,Materials,1
+cadmium,alginate,1
+cadmium,bentonite,1
+cadmium,PS,1
+cadmium,Solutions,1
+cadmium,Freeze Drying,1
+cadmium,Ions,1
+Solutions,phosphorus,1
+Solutions,Materials,4
+Solutions,compounds,1
+Solutions,alginate,1
+Solutions,bentonite,1
+Solutions,PS,1
+Solutions,cadmium,1
+Solutions,Freeze Drying,1
+Solutions,Ions,2
+Solutions,cellulose,1
+Solutions,"Spectroscopy, Fourier Transform Infrared",1
+Solutions,analysis,1
+Solutions,studies,1
+Solutions,X-Ray Diffraction,2
+Solutions,Anions,1
+Solutions,hydroxyl,1
+Solutions,amine,1
+Solutions,sulfur,1
+Solutions,carboxyl functional,1
+Solutions,crystal violet,1
+Solutions,Congo red,1
+Solutions,CR,1
+Solutions,waste product,1
+Solutions,hydrate,1
+Solutions,chemical extraction,1
+Solutions,Microscopic observations,1
+Solutions,methylene blue,2
+Solutions,clay,1
+Solutions,Biopolymers,1
+Solutions,Alkynes,1
+Solutions,reactions,1
+Solutions,Alkenes,1
+Solutions,NaCl,1
+Solutions,halogen bonding,1
+Solutions,chloride ions,1
+Solutions,Electrons,1
+Solutions,Molecule,2
+Solutions,europium,1
+Solutions,samarium,1
+Solutions,Sm,1
+Solutions,neodymium,1
+Solutions,Inductively-Coupled Plasma Mass Spectrometry,1
+Solutions,TEM,1
+Solutions,EPS,1
+Solutions,enrichment,1
+Solutions,substituted,1
+Solutions,intramolecular charge transfer,1
+Solutions,MEP,1
+Solutions,electrolyte,1
+Solutions,Schiff Bases,1
+Solutions,Boranil dye,1
+Solutions,1H,1
+Solutions,THF,1
+Solutions,chloroquine,1
+Solutions,DMSO,1
+Solutions,antiviral brincidofovir,1
+Solutions,imidazole ring,1
+Solutions,chemical elements,1
+Solutions,hydronium ion,1
+Solutions,H3O+,1
+Solutions,hydrogen atom and ion,1
+Solutions,hydroxide ion,1
+Solutions,atoms,1
+Solutions,labile,1
+Freeze Drying,Materials,2
+Freeze Drying,polysaccharides,1
+Freeze Drying,alginate,2
+Freeze Drying,bentonite,1
+Freeze Drying,PS,1
+Freeze Drying,cadmium,1
+Freeze Drying,Solutions,1
+Freeze Drying,Ions,1
+Freeze Drying,"Spectroscopy, Fourier Transform Infrared",1
+Freeze Drying,X-Ray Diffraction,1
+Freeze Drying,scanning electron microscopy,1
+Freeze Drying,Biopolymers,1
+Freeze Drying,gelatin,1
+Freeze Drying,samples,1
+Freeze Drying,Crystallography,1
+Freeze Drying,TEM,1
+Freeze Drying,titania,1
+Freeze Drying,carboxymethylcellulose,1
+Freeze Drying,Thermogravimetry,1
+Freeze Drying,transmission electron microscopy,1
+Freeze Drying,anatase,1
+Freeze Drying,rutile,1
+Ions,phosphorus,1
+Ions,Materials,2
+Ions,alginate,1
+Ions,bentonite,1
+Ions,PS,1
+Ions,cadmium,1
+Ions,Solutions,2
+Ions,Freeze Drying,1
+Ions,Pb2+,1
+Ions,Carbon,1
+Ions,water,1
+Ions,crystallinity,1
+Ions,X-Ray Photoelectron Spectroscopy,1
+Ions,Molecule,1
+Ions,perovskite,1
+Ions,Crystallography,1
+Ions,photoluminescence technique,1
+Ions,cupric cation,1
+Ions,chemical elements,1
+Ions,hydronium ion,1
+Ions,H3O+,1
+Ions,hydrogen atom and ion,1
+Ions,hydroxide ion,1
+Ions,ethylenediamine,1
+cellulose,phosphorus,1
+cellulose,Materials,1
+cellulose,Solutions,1
+cellulose,poly(butylene adipate),1
+cellulose,PBA,1
+cellulose,poly(ethylene adipate),1
+cellulose,Polyesters,1
+cellulose,hydroxyl groups,1
+cellulose,isocyanate,1
+cellulose,"Spectroscopy, Fourier Transform Infrared",1
+cellulose,analysis,1
+cellulose,Anions,1
+cellulose,Phosphonates,1
+cellulose,Biofuels,1
+cellulose,waste product,1
+cellulose,hydrate,1
+cellulose,chemical extraction,1
+cellulose,Microscopic observations,1
+cellulose,methylene blue,1
+cellulose,water,1
+cellulose,fossil,1
+cellulose,pretreatment,1
+cellulose,Chemical fractionation,2
+cellulose,crystallinity,1
+cellulose,advantages/disadvantages,1
+cellulose,metal oxide,1
+cellulose,wood,1
+cellulose,Lignin,1
+cellulose,hemicellulose,1
+cellulose,aromatic,1
+cellulose,furan compounds,1
+cellulose,5-hydroxymethylfurfural,1
+cellulose,vanillin,1
+cellulose,syringaldehyde,1
+cellulose,phosphoryl chloride,1
+cellulose,hexachlorocyclotriphosphazene,1
+cellulose,modified cellulose,1
+cellulose,carboxymethylcellulose analogues,1
+poly(butylene adipate),cellulose,1
+poly(butylene adipate),PBA,1
+poly(butylene adipate),poly(ethylene adipate),1
+poly(butylene adipate),Polyesters,1
+poly(butylene adipate),hydroxyl groups,1
+poly(butylene adipate),isocyanate,1
+poly(butylene adipate),"Spectroscopy, Fourier Transform Infrared",1
+poly(butylene adipate),analysis,1
+PBA,cellulose,1
+PBA,poly(butylene adipate),1
+PBA,poly(ethylene adipate),1
+PBA,Polyesters,1
+PBA,hydroxyl groups,1
+PBA,isocyanate,1
+PBA,"Spectroscopy, Fourier Transform Infrared",1
+PBA,analysis,1
+poly(ethylene adipate),cellulose,1
+poly(ethylene adipate),poly(butylene adipate),1
+poly(ethylene adipate),PBA,1
+poly(ethylene adipate),Polyesters,1
+poly(ethylene adipate),hydroxyl groups,1
+poly(ethylene adipate),isocyanate,1
+poly(ethylene adipate),"Spectroscopy, Fourier Transform Infrared",1
+poly(ethylene adipate),analysis,1
+Polyesters,cellulose,1
+Polyesters,poly(butylene adipate),1
+Polyesters,PBA,1
+Polyesters,poly(ethylene adipate),1
+Polyesters,hydroxyl groups,1
+Polyesters,isocyanate,1
+Polyesters,"Spectroscopy, Fourier Transform Infrared",1
+Polyesters,analysis,1
+hydroxyl groups,cellulose,1
+hydroxyl groups,poly(butylene adipate),1
+hydroxyl groups,PBA,1
+hydroxyl groups,poly(ethylene adipate),1
+hydroxyl groups,Polyesters,1
+hydroxyl groups,isocyanate,1
+hydroxyl groups,"Spectroscopy, Fourier Transform Infrared",1
+hydroxyl groups,analysis,1
+isocyanate,cellulose,1
+isocyanate,poly(butylene adipate),1
+isocyanate,PBA,1
+isocyanate,poly(ethylene adipate),1
+isocyanate,Polyesters,1
+isocyanate,hydroxyl groups,1
+isocyanate,"Spectroscopy, Fourier Transform Infrared",1
+isocyanate,analysis,1
+"Spectroscopy, Fourier Transform Infrared",Materials,1
+"Spectroscopy, Fourier Transform Infrared",compounds,1
+"Spectroscopy, Fourier Transform Infrared",Spectrum Analysis,1
+"Spectroscopy, Fourier Transform Infrared",polysaccharides,1
+"Spectroscopy, Fourier Transform Infrared",alginate,1
+"Spectroscopy, Fourier Transform Infrared",Solutions,1
+"Spectroscopy, Fourier Transform Infrared",Freeze Drying,1
+"Spectroscopy, Fourier Transform Infrared",cellulose,1
+"Spectroscopy, Fourier Transform Infrared",poly(butylene adipate),1
+"Spectroscopy, Fourier Transform Infrared",PBA,1
+"Spectroscopy, Fourier Transform Infrared",poly(ethylene adipate),1
+"Spectroscopy, Fourier Transform Infrared",Polyesters,1
+"Spectroscopy, Fourier Transform Infrared",hydroxyl groups,1
+"Spectroscopy, Fourier Transform Infrared",isocyanate,1
+"Spectroscopy, Fourier Transform Infrared",analysis,2
+"Spectroscopy, Fourier Transform Infrared",X-Ray Diffraction,4
+"Spectroscopy, Fourier Transform Infrared",Mass Spectrometry,1
+"Spectroscopy, Fourier Transform Infrared",bio-oil,1
+"Spectroscopy, Fourier Transform Infrared","Chemistry Techniques, Analytical",1
+"Spectroscopy, Fourier Transform Infrared",gas chromatography-mass spectrometry,1
+"Spectroscopy, Fourier Transform Infrared",scanning electron microscopy,4
+"Spectroscopy, Fourier Transform Infrared",Biofuels,1
+"Spectroscopy, Fourier Transform Infrared",Carbon,1
+"Spectroscopy, Fourier Transform Infrared",activated carbon,1
+"Spectroscopy, Fourier Transform Infrared",water,1
+"Spectroscopy, Fourier Transform Infrared",Biopolymers,2
+"Spectroscopy, Fourier Transform Infrared",crystallinity,1
+"Spectroscopy, Fourier Transform Infrared",gelatin,1
+"Spectroscopy, Fourier Transform Infrared",fatty acids,1
+"Spectroscopy, Fourier Transform Infrared",Alkynes,1
+"Spectroscopy, Fourier Transform Infrared",X-Ray Photoelectron Spectroscopy,1
+"Spectroscopy, Fourier Transform Infrared",samples,3
+"Spectroscopy, Fourier Transform Infrared",iron,1
+"Spectroscopy, Fourier Transform Infrared",alpha-chitin,1
+"Spectroscopy, Fourier Transform Infrared",Crystallography,1
+"Spectroscopy, Fourier Transform Infrared",TEM,1
+"Spectroscopy, Fourier Transform Infrared",Oils,1
+"Spectroscopy, Fourier Transform Infrared",Moroccan,1
+"Spectroscopy, Fourier Transform Infrared",peroxide value,1
+"Spectroscopy, Fourier Transform Infrared",spectrophotometric indices,1
+"Spectroscopy, Fourier Transform Infrared",sterols,1
+"Spectroscopy, Fourier Transform Infrared",tocopherol,1
+"Spectroscopy, Fourier Transform Infrared",PCA,1
+"Spectroscopy, Fourier Transform Infrared",chemical profiling,1
+"Spectroscopy, Fourier Transform Infrared",gamma-tocopherol,1
+"Spectroscopy, Fourier Transform Infrared",delta-tocopherol,1
+"Spectroscopy, Fourier Transform Infrared",22-dien-3 beta-ol,1
+"Spectroscopy, Fourier Transform Infrared",stearic acid,1
+"Spectroscopy, Fourier Transform Infrared",linoleic acid,1
+"Spectroscopy, Fourier Transform Infrared",titania,1
+"Spectroscopy, Fourier Transform Infrared",carboxymethylcellulose,1
+"Spectroscopy, Fourier Transform Infrared",Thermogravimetry,2
+"Spectroscopy, Fourier Transform Infrared",transmission electron microscopy,1
+"Spectroscopy, Fourier Transform Infrared",anatase,1
+"Spectroscopy, Fourier Transform Infrared",rutile,1
+"Spectroscopy, Fourier Transform Infrared",Schiff Bases,2
+"Spectroscopy, Fourier Transform Infrared",Boranil dye,1
+"Spectroscopy, Fourier Transform Infrared",1H,1
+"Spectroscopy, Fourier Transform Infrared",THF,1
+"Spectroscopy, Fourier Transform Infrared",Fe3O4,1
+"Spectroscopy, Fourier Transform Infrared",magnetite,2
+"Spectroscopy, Fourier Transform Infrared",sonochemical procedure,1
+"Spectroscopy, Fourier Transform Infrared",4-nitrophenol,1
+"Spectroscopy, Fourier Transform Infrared",M,1
+"Spectroscopy, Fourier Transform Infrared",ferric ion,1
+"Spectroscopy, Fourier Transform Infrared",Scanning electron microscopy,1
+"Spectroscopy, Fourier Transform Infrared",cells,1
+analysis,phosphorus,1
+analysis,Materials,2
+analysis,compounds,3
+analysis,Spectrum Analysis,2
+analysis,Solutions,1
+analysis,cellulose,1
+analysis,poly(butylene adipate),1
+analysis,PBA,1
+analysis,poly(ethylene adipate),1
+analysis,Polyesters,1
+analysis,hydroxyl groups,1
+analysis,isocyanate,1
+analysis,"Spectroscopy, Fourier Transform Infrared",2
+analysis,studies,1
+analysis,X-Ray Diffraction,2
+analysis,Anions,1
+analysis,hydroxyl,1
+analysis,amine,1
+analysis,sulfur,1
+analysis,carboxyl functional,1
+analysis,crystal violet,1
+analysis,Congo red,1
+analysis,CR,1
+analysis,scanning electron microscopy,2
+analysis,water,1
+analysis,Biopolymers,1
+analysis,Alkynes,1
+analysis,copper,1
+analysis,apatites,1
+analysis,samples,1
+analysis,Bovin Serum Albumin,1
+analysis,Molecule,3
+analysis,benzoic acid,1
+analysis,para-hydroxybenzoic acid,1
+analysis,"3,4-dihydroxybenzoic acid",1
+analysis,Dielectric Spectroscopy,1
+analysis,iron,1
+analysis,"Spectrum Analysis, Raman",1
+analysis,alpha-chitin,1
+analysis,Chemical method,1
+analysis,soil,1
+analysis,charge transfer,1
+analysis,Tetraphenyl,1
+analysis,imidazole,1
+analysis,MEP,1
+analysis,DMF,1
+analysis,air,1
+analysis,Analysis,1
+analysis,calcium amount,1
+analysis,cupric cation,1
+analysis,chitosan,1
+analysis,EPR spectroscopy,1
+analysis,Cu(I),1
+analysis,triazoles,1
+studies,Solutions,1
+studies,analysis,1
+studies,transcription factors,1
+studies,X-Ray Diffraction,1
+studies,Phytochemicals,1
+studies,Flavonoids,1
+studies,assay,1
+studies,copper,1
+studies,Molecule,1
+studies,MEP,1
+studies,LC-MS/MS,1
+studies,Phlorizin,1
+studies,phenolic,1
+studies,phlorizin,1
+studies,glutathione disulfide,1
+studies,GSH,1
+studies,MDA,1
+studies,dexamethasone,1
+studies,tropane alkaloid scopolamine,1
+studies,beta-secretase,1
+studies,cupric cation,1
+studies,chitosan,1
+studies,EPR spectroscopy,1
+studies,Cu(I),1
+studies,triazoles,1
+studies,atoms,1
+studies,labile,1
+transcription factors,studies,1
+"Nitrogen Compounds, Inorganic",compounds,2
+"Nitrogen Compounds, Inorganic",B-RAF inhibitor,1
+"Nitrogen Compounds, Inorganic",PLX4032,1
+"Nitrogen Compounds, Inorganic",frameworks,1
+B-RAF inhibitor,compounds,1
+B-RAF inhibitor,"Nitrogen Compounds, Inorganic",1
+B-RAF inhibitor,PLX4032,1
+B-RAF inhibitor,frameworks,1
+PLX4032,compounds,1
+PLX4032,"Nitrogen Compounds, Inorganic",1
+PLX4032,B-RAF inhibitor,1
+PLX4032,frameworks,1
+frameworks,compounds,1
+frameworks,"Nitrogen Compounds, Inorganic",1
+frameworks,B-RAF inhibitor,1
+frameworks,PLX4032,1
+Laboratory Procedures,Materials,2
+Laboratory Procedures,Metals,1
+Laboratory Procedures,LASSO,1
+Laboratory Procedures,CRM,1
+Laboratory Procedures,natural material,1
+Laboratory Procedures,Carbon,1
+Laboratory Procedures,activated carbon,1
+Laboratory Procedures,catechol,1
+Laboratory Procedures,Electrons,1
+Laboratory Procedures,samples,1
+Laboratory Procedures,Chemical method,1
+Laboratory Procedures,charge transfer,1
+Laboratory Procedures,catechol oxidation,1
+Laboratory Procedures,tap water,1
+LASSO,Laboratory Procedures,1
+LASSO,CRM,1
+CRM,Laboratory Procedures,1
+CRM,LASSO,1
+X-Ray Diffraction,Materials,5
+X-Ray Diffraction,compounds,3
+X-Ray Diffraction,Spectrum Analysis,1
+X-Ray Diffraction,polysaccharides,1
+X-Ray Diffraction,alginate,2
+X-Ray Diffraction,Solutions,2
+X-Ray Diffraction,Freeze Drying,1
+X-Ray Diffraction,"Spectroscopy, Fourier Transform Infrared",4
+X-Ray Diffraction,analysis,2
+X-Ray Diffraction,studies,1
+X-Ray Diffraction,CIE,1
+X-Ray Diffraction,Ni2+,1
+X-Ray Diffraction,Mass Spectrometry,1
+X-Ray Diffraction,manganese,1
+X-Ray Diffraction,"Chemistry Techniques, Analytical",1
+X-Ray Diffraction,scanning electron microscopy,5
+X-Ray Diffraction,MIC,1
+X-Ray Diffraction,MBC,1
+X-Ray Diffraction,BDT,1
+X-Ray Diffraction,succinic anhydride,1
+X-Ray Diffraction,"1,4-butanediol",1
+X-Ray Diffraction,water,4
+X-Ray Diffraction,bismuth chloride,1
+X-Ray Diffraction,water vapor,1
+X-Ray Diffraction,Biopolymers,2
+X-Ray Diffraction,crystallinity,1
+X-Ray Diffraction,gelatin,1
+X-Ray Diffraction,Alkynes,1
+X-Ray Diffraction,X-Ray Photoelectron Spectroscopy,1
+X-Ray Diffraction,K,1
+X-Ray Diffraction,nickel,1
+X-Ray Diffraction,metal oxide,2
+X-Ray Diffraction,oxygen,1
+X-Ray Diffraction,soft X-ray absorption spectroscopy,1
+X-Ray Diffraction,Electrons,1
+X-Ray Diffraction,samples,2
+X-Ray Diffraction,Molecule,1
+X-Ray Diffraction,Dielectric Spectroscopy,1
+X-Ray Diffraction,iron,1
+X-Ray Diffraction,"Spectrum Analysis, Raman",4
+X-Ray Diffraction,alpha-chitin,1
+X-Ray Diffraction,Crystallography,1
+X-Ray Diffraction,neodymium,1
+X-Ray Diffraction,TEM,1
+X-Ray Diffraction,Lignin,1
+X-Ray Diffraction,Oxides,2
+X-Ray Diffraction,MEP,1
+X-Ray Diffraction,titania,1
+X-Ray Diffraction,carboxymethylcellulose,1
+X-Ray Diffraction,Thermogravimetry,2
+X-Ray Diffraction,transmission electron microscopy,1
+X-Ray Diffraction,anatase,1
+X-Ray Diffraction,rutile,1
+X-Ray Diffraction,Schiff Bases,1
+X-Ray Diffraction,air,1
+X-Ray Diffraction,Analysis,1
+X-Ray Diffraction,calcium amount,1
+X-Ray Diffraction,ZnO,1
+X-Ray Diffraction,infrared spectroscopy,1
+X-Ray Diffraction,size exclusion chromatography,1
+X-Ray Diffraction,aromatic compounds,1
+X-Ray Diffraction,Fe3O4,1
+X-Ray Diffraction,magnetite,2
+X-Ray Diffraction,sonochemical procedure,1
+X-Ray Diffraction,4-nitrophenol,1
+X-Ray Diffraction,salicylic acid,1
+X-Ray Diffraction,naproxen,1
+X-Ray Diffraction,ketoprofen,1
+X-Ray Diffraction,Fourier transform infrared spectrometry,1
+X-Ray Diffraction,chloroquine,1
+X-Ray Diffraction,DMSO,1
+X-Ray Diffraction,antiviral brincidofovir,1
+X-Ray Diffraction,imidazole ring,1
+X-Ray Diffraction,atoms,1
+X-Ray Diffraction,labile,1
+X-Ray Diffraction,M,1
+X-Ray Diffraction,ferric ion,1
+X-Ray Diffraction,Scanning electron microscopy,1
+X-Ray Diffraction,cells,1
+CIE,X-Ray Diffraction,1
+CIE,Ni2+,1
+Ni2+,X-Ray Diffraction,1
+Ni2+,CIE,1
+Phytochemicals,compounds,2
+Phytochemicals,studies,1
+Phytochemicals,phenolic acids,2
+Phytochemicals,Flavonoids,3
+Phytochemicals,glycoside derivatives,1
+Phytochemicals,Esculetin,1
+Phytochemicals,quercetin 3-O-beta-D-glucuronide,1
+Phytochemicals,Mass Spectrometry,1
+Phytochemicals,kaempferol-3-O-glucuronide,1
+Phytochemicals,esculetin,1
+Phytochemicals,Enzymes,1
+Phytochemicals,assay,2
+Phytochemicals,collagenase,1
+Phytochemicals,elastase,1
+Phytochemicals,hyaluronidase,1
+Phytochemicals,butanol extract,1
+Phytochemicals,gelatin,1
+Phytochemicals,insulin,1
+Phytochemicals,amino acids,1
+Phytochemicals,fatty acids,1
+Phytochemicals,carbohydrates,1
+Phytochemicals,LC-MS/MS,1
+Phytochemicals,Phlorizin,1
+Phytochemicals,phenolic,1
+Phytochemicals,phlorizin,1
+Phytochemicals,glutathione disulfide,1
+Phytochemicals,GSH,1
+Phytochemicals,MDA,1
+Phytochemicals,dexamethasone,1
+Phytochemicals,tropane alkaloid scopolamine,1
+Phytochemicals,beta-secretase,1
+phenolic acids,compounds,2
+phenolic acids,Phytochemicals,2
+phenolic acids,Flavonoids,2
+phenolic acids,glycoside derivatives,1
+phenolic acids,Esculetin,1
+phenolic acids,quercetin 3-O-beta-D-glucuronide,1
+phenolic acids,Mass Spectrometry,1
+phenolic acids,kaempferol-3-O-glucuronide,1
+phenolic acids,esculetin,1
+phenolic acids,Enzymes,1
+phenolic acids,assay,1
+phenolic acids,collagenase,1
+phenolic acids,elastase,1
+phenolic acids,hyaluronidase,1
+phenolic acids,butanol extract,1
+phenolic acids,gelatin,1
+phenolic acids,insulin,1
+phenolic acids,amino acids,1
+phenolic acids,fatty acids,1
+phenolic acids,carbohydrates,1
+Flavonoids,compounds,2
+Flavonoids,studies,1
+Flavonoids,Phytochemicals,3
+Flavonoids,phenolic acids,2
+Flavonoids,glycoside derivatives,1
+Flavonoids,Esculetin,1
+Flavonoids,quercetin 3-O-beta-D-glucuronide,1
+Flavonoids,Mass Spectrometry,1
+Flavonoids,kaempferol-3-O-glucuronide,1
+Flavonoids,esculetin,1
+Flavonoids,Enzymes,1
+Flavonoids,assay,2
+Flavonoids,collagenase,1
+Flavonoids,elastase,1
+Flavonoids,hyaluronidase,1
+Flavonoids,butanol extract,1
+Flavonoids,gelatin,1
+Flavonoids,insulin,1
+Flavonoids,amino acids,1
+Flavonoids,fatty acids,1
+Flavonoids,carbohydrates,1
+Flavonoids,LC-MS/MS,1
+Flavonoids,Phlorizin,1
+Flavonoids,phenolic,1
+Flavonoids,phlorizin,1
+Flavonoids,glutathione disulfide,1
+Flavonoids,GSH,1
+Flavonoids,MDA,1
+Flavonoids,dexamethasone,1
+Flavonoids,tropane alkaloid scopolamine,1
+Flavonoids,beta-secretase,1
+glycoside derivatives,compounds,1
+glycoside derivatives,Phytochemicals,1
+glycoside derivatives,phenolic acids,1
+glycoside derivatives,Flavonoids,1
+glycoside derivatives,Esculetin,1
+glycoside derivatives,quercetin 3-O-beta-D-glucuronide,1
+glycoside derivatives,Mass Spectrometry,1
+glycoside derivatives,kaempferol-3-O-glucuronide,1
+glycoside derivatives,esculetin,1
+glycoside derivatives,Enzymes,1
+glycoside derivatives,assay,1
+glycoside derivatives,collagenase,1
+glycoside derivatives,elastase,1
+glycoside derivatives,hyaluronidase,1
+Esculetin,compounds,1
+Esculetin,Phytochemicals,1
+Esculetin,phenolic acids,1
+Esculetin,Flavonoids,1
+Esculetin,glycoside derivatives,1
+Esculetin,quercetin 3-O-beta-D-glucuronide,1
+Esculetin,Mass Spectrometry,1
+Esculetin,kaempferol-3-O-glucuronide,1
+Esculetin,esculetin,1
+Esculetin,Enzymes,1
+Esculetin,assay,1
+Esculetin,collagenase,1
+Esculetin,elastase,1
+Esculetin,hyaluronidase,1
+quercetin 3-O-beta-D-glucuronide,compounds,1
+quercetin 3-O-beta-D-glucuronide,Phytochemicals,1
+quercetin 3-O-beta-D-glucuronide,phenolic acids,1
+quercetin 3-O-beta-D-glucuronide,Flavonoids,1
+quercetin 3-O-beta-D-glucuronide,glycoside derivatives,1
+quercetin 3-O-beta-D-glucuronide,Esculetin,1
+quercetin 3-O-beta-D-glucuronide,Mass Spectrometry,1
+quercetin 3-O-beta-D-glucuronide,kaempferol-3-O-glucuronide,1
+quercetin 3-O-beta-D-glucuronide,esculetin,1
+quercetin 3-O-beta-D-glucuronide,Enzymes,1
+quercetin 3-O-beta-D-glucuronide,assay,1
+quercetin 3-O-beta-D-glucuronide,collagenase,1
+quercetin 3-O-beta-D-glucuronide,elastase,1
+quercetin 3-O-beta-D-glucuronide,hyaluronidase,1
+Mass Spectrometry,compounds,2
+Mass Spectrometry,"Spectroscopy, Fourier Transform Infrared",1
+Mass Spectrometry,X-Ray Diffraction,1
+Mass Spectrometry,Phytochemicals,1
+Mass Spectrometry,phenolic acids,1
+Mass Spectrometry,Flavonoids,1
+Mass Spectrometry,glycoside derivatives,1
+Mass Spectrometry,Esculetin,1
+Mass Spectrometry,quercetin 3-O-beta-D-glucuronide,1
+Mass Spectrometry,kaempferol-3-O-glucuronide,1
+Mass Spectrometry,esculetin,1
+Mass Spectrometry,Enzymes,1
+Mass Spectrometry,assay,1
+Mass Spectrometry,collagenase,1
+Mass Spectrometry,elastase,1
+Mass Spectrometry,hyaluronidase,1
+Mass Spectrometry,iron,1
+Mass Spectrometry,Schiff Bases,1
+Mass Spectrometry,magnetite,1
+Mass Spectrometry,M,1
+Mass Spectrometry,ferric ion,1
+Mass Spectrometry,Scanning electron microscopy,1
+Mass Spectrometry,cells,1
+kaempferol-3-O-glucuronide,compounds,1
+kaempferol-3-O-glucuronide,Phytochemicals,1
+kaempferol-3-O-glucuronide,phenolic acids,1
+kaempferol-3-O-glucuronide,Flavonoids,1
+kaempferol-3-O-glucuronide,glycoside derivatives,1
+kaempferol-3-O-glucuronide,Esculetin,1
+kaempferol-3-O-glucuronide,quercetin 3-O-beta-D-glucuronide,1
+kaempferol-3-O-glucuronide,Mass Spectrometry,1
+kaempferol-3-O-glucuronide,esculetin,1
+kaempferol-3-O-glucuronide,Enzymes,1
+kaempferol-3-O-glucuronide,assay,1
+kaempferol-3-O-glucuronide,collagenase,1
+kaempferol-3-O-glucuronide,elastase,1
+kaempferol-3-O-glucuronide,hyaluronidase,1
+esculetin,compounds,1
+esculetin,Phytochemicals,1
+esculetin,phenolic acids,1
+esculetin,Flavonoids,1
+esculetin,glycoside derivatives,1
+esculetin,Esculetin,1
+esculetin,quercetin 3-O-beta-D-glucuronide,1
+esculetin,Mass Spectrometry,1
+esculetin,kaempferol-3-O-glucuronide,1
+esculetin,Enzymes,1
+esculetin,assay,1
+esculetin,collagenase,1
+esculetin,elastase,1
+esculetin,hyaluronidase,1
+Enzymes,compounds,1
+Enzymes,Phytochemicals,1
+Enzymes,phenolic acids,1
+Enzymes,Flavonoids,1
+Enzymes,glycoside derivatives,1
+Enzymes,Esculetin,1
+Enzymes,quercetin 3-O-beta-D-glucuronide,1
+Enzymes,Mass Spectrometry,1
+Enzymes,kaempferol-3-O-glucuronide,1
+Enzymes,esculetin,1
+Enzymes,assay,1
+Enzymes,collagenase,1
+Enzymes,elastase,1
+Enzymes,hyaluronidase,1
+Enzymes,MitoP-2,1
+Enzymes,staining,1
+Enzymes,nitroreductase,1
+Enzymes,enzymatic assays,1
+Enzymes,Phosphonates,1
+assay,compounds,1
+assay,studies,1
+assay,Phytochemicals,2
+assay,phenolic acids,1
+assay,Flavonoids,2
+assay,glycoside derivatives,1
+assay,Esculetin,1
+assay,quercetin 3-O-beta-D-glucuronide,1
+assay,Mass Spectrometry,1
+assay,kaempferol-3-O-glucuronide,1
+assay,esculetin,1
+assay,Enzymes,1
+assay,collagenase,1
+assay,elastase,1
+assay,hyaluronidase,1
+assay,LC-MS/MS,1
+assay,Phlorizin,1
+assay,phenolic,1
+assay,phlorizin,1
+assay,glutathione disulfide,1
+assay,GSH,1
+assay,MDA,1
+assay,dexamethasone,1
+assay,tropane alkaloid scopolamine,1
+assay,beta-secretase,1
+collagenase,compounds,1
+collagenase,Phytochemicals,1
+collagenase,phenolic acids,1
+collagenase,Flavonoids,1
+collagenase,glycoside derivatives,1
+collagenase,Esculetin,1
+collagenase,quercetin 3-O-beta-D-glucuronide,1
+collagenase,Mass Spectrometry,1
+collagenase,kaempferol-3-O-glucuronide,1
+collagenase,esculetin,1
+collagenase,Enzymes,1
+collagenase,assay,1
+collagenase,elastase,1
+collagenase,hyaluronidase,1
+elastase,compounds,1
+elastase,Phytochemicals,1
+elastase,phenolic acids,1
+elastase,Flavonoids,1
+elastase,glycoside derivatives,1
+elastase,Esculetin,1
+elastase,quercetin 3-O-beta-D-glucuronide,1
+elastase,Mass Spectrometry,1
+elastase,kaempferol-3-O-glucuronide,1
+elastase,esculetin,1
+elastase,Enzymes,1
+elastase,assay,1
+elastase,collagenase,1
+elastase,hyaluronidase,1
+hyaluronidase,compounds,1
+hyaluronidase,Phytochemicals,1
+hyaluronidase,phenolic acids,1
+hyaluronidase,Flavonoids,1
+hyaluronidase,glycoside derivatives,1
+hyaluronidase,Esculetin,1
+hyaluronidase,quercetin 3-O-beta-D-glucuronide,1
+hyaluronidase,Mass Spectrometry,1
+hyaluronidase,kaempferol-3-O-glucuronide,1
+hyaluronidase,esculetin,1
+hyaluronidase,Enzymes,1
+hyaluronidase,assay,1
+hyaluronidase,collagenase,1
+hyaluronidase,elastase,1
+manganese oxide,Materials,1
+manganese oxide,Metals,1
+manganese oxide,heavy metals,1
+manganese oxide,Pb2+,1
+manganese oxide,manganese,1
+heavy metals,Materials,1
+heavy metals,Metals,1
+heavy metals,manganese oxide,1
+heavy metals,Pb2+,1
+heavy metals,manganese,1
+Pb2+,Materials,1
+Pb2+,Metals,1
+Pb2+,Ions,1
+Pb2+,manganese oxide,1
+Pb2+,heavy metals,1
+Pb2+,manganese,1
+Pb2+,Carbon,1
+Pb2+,water,1
+Pb2+,X-Ray Photoelectron Spectroscopy,1
+Pb2+,cupric cation,1
+Pb2+,ethylenediamine,1
+manganese,Materials,3
+manganese,Metals,1
+manganese,X-Ray Diffraction,1
+manganese,manganese oxide,1
+manganese,heavy metals,1
+manganese,Pb2+,1
+manganese,"Chemistry Techniques, Analytical",1
+manganese,lithium,1
+manganese,nickel,1
+manganese,metal oxide,1
+manganese,oxygen,1
+manganese,soft X-ray absorption spectroscopy,1
+manganese,Electrons,1
+manganese,nitrides,1
+manganese,ammonia,1
+manganese,in situ neutron diffraction studies,1
+Anions,phosphorus,1
+Anions,Solutions,1
+Anions,cellulose,1
+Anions,analysis,1
+Anions,hydroxyl,1
+Anions,amine,1
+Anions,sulfur,1
+Anions,carboxyl functional,1
+Anions,crystal violet,1
+Anions,Congo red,1
+Anions,CR,1
+Anions,Phosphonates,1
+Anions,metal oxide,1
+Anions,oxygen,1
+Anions,graphene oxide,1
+Anions,graphene,1
+Anions,electrochemical,1
+Anions,Oxides,1
+Anions,moduli,1
+Anions,phosphoryl chloride,1
+Anions,hexachlorocyclotriphosphazene,1
+Anions,modified cellulose,1
+Anions,carboxymethylcellulose analogues,1
+hydroxyl,Solutions,1
+hydroxyl,analysis,1
+hydroxyl,Anions,1
+hydroxyl,amine,1
+hydroxyl,sulfur,1
+hydroxyl,carboxyl functional,1
+hydroxyl,crystal violet,1
+hydroxyl,Congo red,1
+hydroxyl,CR,1
+amine,Solutions,1
+amine,analysis,1
+amine,Anions,1
+amine,hydroxyl,1
+amine,sulfur,1
+amine,carboxyl functional,1
+amine,crystal violet,1
+amine,Congo red,1
+amine,CR,1
+sulfur,Solutions,1
+sulfur,analysis,1
+sulfur,Anions,1
+sulfur,hydroxyl,1
+sulfur,amine,1
+sulfur,carboxyl functional,1
+sulfur,crystal violet,1
+sulfur,Congo red,1
+sulfur,CR,1
+carboxyl functional,Solutions,1
+carboxyl functional,analysis,1
+carboxyl functional,Anions,1
+carboxyl functional,hydroxyl,1
+carboxyl functional,amine,1
+carboxyl functional,sulfur,1
+carboxyl functional,crystal violet,1
+carboxyl functional,Congo red,1
+carboxyl functional,CR,1
+crystal violet,Solutions,1
+crystal violet,analysis,1
+crystal violet,Anions,1
+crystal violet,hydroxyl,1
+crystal violet,amine,1
+crystal violet,sulfur,1
+crystal violet,carboxyl functional,1
+crystal violet,Congo red,1
+crystal violet,CR,1
+Congo red,Solutions,1
+Congo red,analysis,1
+Congo red,Anions,1
+Congo red,hydroxyl,1
+Congo red,amine,1
+Congo red,sulfur,1
+Congo red,carboxyl functional,1
+Congo red,crystal violet,1
+Congo red,CR,1
+CR,Solutions,1
+CR,analysis,1
+CR,Anions,1
+CR,hydroxyl,1
+CR,amine,1
+CR,sulfur,1
+CR,carboxyl functional,1
+CR,crystal violet,1
+CR,Congo red,1
+natural material,Materials,1
+natural material,Metals,1
+natural material,Laboratory Procedures,1
+MitoP-2,Enzymes,1
+MitoP-2,staining,1
+MitoP-2,nitroreductase,1
+MitoP-2,enzymatic assays,1
+MitoP-2,Phosphonates,1
+staining,Enzymes,1
+staining,MitoP-2,1
+staining,nitroreductase,1
+staining,enzymatic assays,1
+staining,Phosphonates,1
+nitroreductase,Enzymes,1
+nitroreductase,MitoP-2,1
+nitroreductase,staining,1
+nitroreductase,enzymatic assays,1
+nitroreductase,Phosphonates,1
+enzymatic assays,Enzymes,1
+enzymatic assays,MitoP-2,1
+enzymatic assays,staining,1
+enzymatic assays,nitroreductase,1
+enzymatic assays,Phosphonates,1
+Phosphonates,phosphorus,1
+Phosphonates,cellulose,1
+Phosphonates,Enzymes,1
+Phosphonates,Anions,1
+Phosphonates,MitoP-2,1
+Phosphonates,staining,1
+Phosphonates,nitroreductase,1
+Phosphonates,enzymatic assays,1
+Phosphonates,metal oxide,1
+Phosphonates,phosphoryl chloride,1
+Phosphonates,hexachlorocyclotriphosphazene,1
+Phosphonates,modified cellulose,1
+Phosphonates,carboxymethylcellulose analogues,1
+bio-oil,"Spectroscopy, Fourier Transform Infrared",1
+bio-oil,"Chemistry Techniques, Analytical",1
+bio-oil,gas chromatography-mass spectrometry,1
+bio-oil,scanning electron microscopy,1
+bio-oil,Biofuels,1
+bio-oil,Carbon,1
+bio-oil,activated carbon,1
+bio-oil,fossil,1
+bio-oil,high oxygen content,1
+bio-oil,Oils,1
+bio-oil,oxygenated compounds,1
+bio-oil,HDO,1
+bio-oil,coke,1
+"Chemistry Techniques, Analytical",Materials,1
+"Chemistry Techniques, Analytical","Spectroscopy, Fourier Transform Infrared",1
+"Chemistry Techniques, Analytical",X-Ray Diffraction,1
+"Chemistry Techniques, Analytical",manganese,1
+"Chemistry Techniques, Analytical",bio-oil,1
+"Chemistry Techniques, Analytical",gas chromatography-mass spectrometry,1
+"Chemistry Techniques, Analytical",scanning electron microscopy,1
+"Chemistry Techniques, Analytical",Biofuels,1
+"Chemistry Techniques, Analytical",Carbon,1
+"Chemistry Techniques, Analytical",activated carbon,1
+"Chemistry Techniques, Analytical",X-Ray Photoelectron Spectroscopy,1
+"Chemistry Techniques, Analytical",copper,1
+"Chemistry Techniques, Analytical",H2O2,1
+"Chemistry Techniques, Analytical",phenol,1
+"Chemistry Techniques, Analytical",catechol,1
+"Chemistry Techniques, Analytical",hydroquinone,1
+"Chemistry Techniques, Analytical",simple centrifugation,1
+"Chemistry Techniques, Analytical",nickel,1
+"Chemistry Techniques, Analytical",metal oxide,1
+"Chemistry Techniques, Analytical",oxygen,1
+"Chemistry Techniques, Analytical",soft X-ray absorption spectroscopy,1
+"Chemistry Techniques, Analytical",Electrons,1
+gas chromatography-mass spectrometry,"Spectroscopy, Fourier Transform Infrared",1
+gas chromatography-mass spectrometry,bio-oil,1
+gas chromatography-mass spectrometry,"Chemistry Techniques, Analytical",1
+gas chromatography-mass spectrometry,scanning electron microscopy,1
+gas chromatography-mass spectrometry,Biofuels,1
+gas chromatography-mass spectrometry,Carbon,1
+gas chromatography-mass spectrometry,activated carbon,1
+scanning electron microscopy,Materials,2
+scanning electron microscopy,compounds,1
+scanning electron microscopy,Spectrum Analysis,1
+scanning electron microscopy,polysaccharides,1
+scanning electron microscopy,alginate,1
+scanning electron microscopy,Freeze Drying,1
+scanning electron microscopy,"Spectroscopy, Fourier Transform Infrared",4
+scanning electron microscopy,analysis,2
+scanning electron microscopy,X-Ray Diffraction,5
+scanning electron microscopy,bio-oil,1
+scanning electron microscopy,"Chemistry Techniques, Analytical",1
+scanning electron microscopy,gas chromatography-mass spectrometry,1
+scanning electron microscopy,Biofuels,1
+scanning electron microscopy,Carbon,1
+scanning electron microscopy,activated carbon,1
+scanning electron microscopy,BDT,1
+scanning electron microscopy,succinic anhydride,1
+scanning electron microscopy,"1,4-butanediol",1
+scanning electron microscopy,water,3
+scanning electron microscopy,bismuth chloride,1
+scanning electron microscopy,water vapor,1
+scanning electron microscopy,Biopolymers,2
+scanning electron microscopy,crystallinity,1
+scanning electron microscopy,gelatin,1
+scanning electron microscopy,Alkynes,1
+scanning electron microscopy,X-Ray Photoelectron Spectroscopy,1
+scanning electron microscopy,samples,2
+scanning electron microscopy,Molecule,1
+scanning electron microscopy,benzoic acid,1
+scanning electron microscopy,para-hydroxybenzoic acid,1
+scanning electron microscopy,"3,4-dihydroxybenzoic acid",1
+scanning electron microscopy,Dielectric Spectroscopy,1
+scanning electron microscopy,iron,1
+scanning electron microscopy,"Spectrum Analysis, Raman",1
+scanning electron microscopy,alpha-chitin,1
+scanning electron microscopy,Crystallography,1
+scanning electron microscopy,TEM,1
+scanning electron microscopy,titania,1
+scanning electron microscopy,carboxymethylcellulose,1
+scanning electron microscopy,Thermogravimetry,2
+scanning electron microscopy,transmission electron microscopy,1
+scanning electron microscopy,anatase,1
+scanning electron microscopy,rutile,1
+scanning electron microscopy,Fe3O4,1
+scanning electron microscopy,magnetite,1
+scanning electron microscopy,sonochemical procedure,1
+scanning electron microscopy,4-nitrophenol,1
+scanning electron microscopy,salicylic acid,1
+scanning electron microscopy,naproxen,1
+scanning electron microscopy,ketoprofen,1
+scanning electron microscopy,Fourier transform infrared spectrometry,1
+Biofuels,cellulose,1
+Biofuels,"Spectroscopy, Fourier Transform Infrared",1
+Biofuels,bio-oil,1
+Biofuels,"Chemistry Techniques, Analytical",1
+Biofuels,gas chromatography-mass spectrometry,1
+Biofuels,scanning electron microscopy,1
+Biofuels,Carbon,1
+Biofuels,activated carbon,1
+Biofuels,fossil,1
+Biofuels,pretreatment,1
+Biofuels,Chemical fractionation,1
+Biofuels,crystallinity,1
+Biofuels,advantages/disadvantages,1
+Carbon,Materials,1
+Carbon,Ions,1
+Carbon,"Spectroscopy, Fourier Transform Infrared",1
+Carbon,Laboratory Procedures,1
+Carbon,Pb2+,1
+Carbon,bio-oil,1
+Carbon,"Chemistry Techniques, Analytical",1
+Carbon,gas chromatography-mass spectrometry,1
+Carbon,scanning electron microscopy,1
+Carbon,Biofuels,1
+Carbon,activated carbon,2
+Carbon,water,1
+Carbon,X-Ray Photoelectron Spectroscopy,1
+Carbon,catechol,1
+Carbon,Electrons,1
+Carbon,samples,1
+Carbon,Chemical method,1
+Carbon,charge transfer,1
+Carbon,catechol oxidation,1
+Carbon,tap water,1
+Carbon,cupric cation,1
+Carbon,ethylenediamine,1
+activated carbon,Materials,1
+activated carbon,"Spectroscopy, Fourier Transform Infrared",1
+activated carbon,Laboratory Procedures,1
+activated carbon,bio-oil,1
+activated carbon,"Chemistry Techniques, Analytical",1
+activated carbon,gas chromatography-mass spectrometry,1
+activated carbon,scanning electron microscopy,1
+activated carbon,Biofuels,1
+activated carbon,Carbon,2
+activated carbon,catechol,1
+activated carbon,Electrons,1
+activated carbon,samples,1
+activated carbon,Chemical method,1
+activated carbon,charge transfer,1
+activated carbon,catechol oxidation,1
+activated carbon,tap water,1
+waste product,Materials,1
+waste product,Solutions,1
+waste product,cellulose,1
+waste product,hydrate,1
+waste product,chemical extraction,1
+waste product,Microscopic observations,1
+waste product,methylene blue,1
+hydrate,Materials,1
+hydrate,Solutions,1
+hydrate,cellulose,1
+hydrate,waste product,1
+hydrate,chemical extraction,1
+hydrate,Microscopic observations,1
+hydrate,methylene blue,1
+hydrate,Methane,1
+chemical extraction,Materials,1
+chemical extraction,Solutions,1
+chemical extraction,cellulose,1
+chemical extraction,waste product,1
+chemical extraction,hydrate,1
+chemical extraction,Microscopic observations,1
+chemical extraction,methylene blue,1
+Microscopic observations,Materials,1
+Microscopic observations,Solutions,1
+Microscopic observations,cellulose,1
+Microscopic observations,waste product,1
+Microscopic observations,hydrate,1
+Microscopic observations,chemical extraction,1
+Microscopic observations,methylene blue,1
+methylene blue,Materials,2
+methylene blue,Solutions,2
+methylene blue,cellulose,1
+methylene blue,waste product,1
+methylene blue,hydrate,1
+methylene blue,chemical extraction,1
+methylene blue,Microscopic observations,1
+methylene blue,clay,1
+methylene blue,Biopolymers,1
+methylene blue,electron microscopy analysis,1
+methylene blue,Phenol,1
+methylene blue,Moroccan,1
+methylene blue,AG,1
+methylene blue,OP,1
+methylene blue,solid-liquid,1
+methylene blue,sorption,1
+"Crystallography, X-Ray",compounds,2
+"Crystallography, X-Ray",Spectrum Analysis,1
+"Crystallography, X-Ray",MIC,1
+"Crystallography, X-Ray",MBC,1
+"Crystallography, X-Ray",Alkynes,1
+"Crystallography, X-Ray",Alkenes,1
+"Crystallography, X-Ray",Oxides,1
+"Crystallography, X-Ray",Isoxazoles,1
+"Crystallography, X-Ray",Aldehydes,1
+"Crystallography, X-Ray",hydroxylamine hydrochloride,1
+"Crystallography, X-Ray",5b,1
+MIC,Materials,1
+MIC,compounds,1
+MIC,Spectrum Analysis,1
+MIC,X-Ray Diffraction,1
+MIC,"Crystallography, X-Ray",1
+MIC,MBC,2
+MIC,metal oxide,1
+MIC,neodymium,1
+MIC,Oxides,1
+MIC,ZnO,1
+MIC,infrared spectroscopy,1
+MBC,Materials,1
+MBC,compounds,1
+MBC,Spectrum Analysis,1
+MBC,X-Ray Diffraction,1
+MBC,"Crystallography, X-Ray",1
+MBC,MIC,2
+MBC,metal oxide,1
+MBC,neodymium,1
+MBC,Oxides,1
+MBC,ZnO,1
+MBC,infrared spectroscopy,1
+BDT,Materials,1
+BDT,X-Ray Diffraction,1
+BDT,scanning electron microscopy,1
+BDT,succinic anhydride,1
+BDT,"1,4-butanediol",1
+BDT,water,1
+BDT,bismuth chloride,1
+BDT,water vapor,1
+succinic anhydride,Materials,1
+succinic anhydride,X-Ray Diffraction,1
+succinic anhydride,scanning electron microscopy,1
+succinic anhydride,BDT,1
+succinic anhydride,"1,4-butanediol",1
+succinic anhydride,water,1
+succinic anhydride,bismuth chloride,1
+succinic anhydride,water vapor,1
+"1,4-butanediol",Materials,1
+"1,4-butanediol",X-Ray Diffraction,1
+"1,4-butanediol",scanning electron microscopy,1
+"1,4-butanediol",BDT,1
+"1,4-butanediol",succinic anhydride,1
+"1,4-butanediol",water,1
+"1,4-butanediol",bismuth chloride,1
+"1,4-butanediol",water vapor,1
+water,Materials,1
+water,Spectrum Analysis,2
+water,alginate,1
+water,Ions,1
+water,cellulose,1
+water,"Spectroscopy, Fourier Transform Infrared",1
+water,analysis,1
+water,X-Ray Diffraction,4
+water,Pb2+,1
+water,scanning electron microscopy,3
+water,Carbon,1
+water,BDT,1
+water,succinic anhydride,1
+water,"1,4-butanediol",1
+water,bismuth chloride,1
+water,water vapor,1
+water,Biopolymers,1
+water,Phosphates,3
+water,slurry,1
+water,sedimentation,1
+water,Chemical fractionation,1
+water,Alkynes,1
+water,reactions,1
+water,X-Ray Photoelectron Spectroscopy,1
+water,Molecule,1
+water,benzoic acid,1
+water,"Spectrum Analysis, Raman",1
+water,alpha-chitin,1
+water,wood,1
+water,Lignin,3
+water,hemicellulose,1
+water,aromatic,2
+water,furan compounds,1
+water,5-hydroxymethylfurfural,1
+water,vanillin,2
+water,syringaldehyde,2
+water,Oxides,2
+water,Microscopy,1
+water,aryl bromides,1
+water,cupric cation,1
+water,size exclusion chromatography,1
+water,aromatic compounds,1
+water,salicylic acid,1
+water,naproxen,1
+water,ketoprofen,1
+water,Fourier transform infrared spectrometry,1
+water,alpha-amino acid derivative,1
+water,perfluorocarbons,1
+water,Singlet oxygen lifetime,1
+water,perfluorodecalin,1
+water,acetone,2
+water,nitriles,1
+water,palladium,2
+water,amides,1
+water,Aldehydes,2
+water,nanostructured pyrophosphate,1
+water,chlorides,1
+water,aryl boronic acids,1
+water,straw,1
+water,water-soluble oligomers,1
+water,ethylenediamine,1
+bismuth chloride,Materials,1
+bismuth chloride,X-Ray Diffraction,1
+bismuth chloride,scanning electron microscopy,1
+bismuth chloride,BDT,1
+bismuth chloride,succinic anhydride,1
+bismuth chloride,"1,4-butanediol",1
+bismuth chloride,water,1
+bismuth chloride,water vapor,1
+water vapor,Materials,1
+water vapor,X-Ray Diffraction,1
+water vapor,scanning electron microscopy,1
+water vapor,BDT,1
+water vapor,succinic anhydride,1
+water vapor,"1,4-butanediol",1
+water vapor,water,1
+water vapor,bismuth chloride,1
+crystallised,Na+,1
+crystallised,Ca2,1
+Na+,crystallised,1
+Na+,Ca2,1
+Ca2,crystallised,1
+Ca2,Na+,1
+clay,Solutions,1
+clay,methylene blue,1
+clay,Biopolymers,1
+Biopolymers,Materials,1
+Biopolymers,Spectrum Analysis,1
+Biopolymers,polysaccharides,1
+Biopolymers,alginate,1
+Biopolymers,Solutions,1
+Biopolymers,Freeze Drying,1
+Biopolymers,"Spectroscopy, Fourier Transform Infrared",2
+Biopolymers,analysis,1
+Biopolymers,X-Ray Diffraction,2
+Biopolymers,scanning electron microscopy,2
+Biopolymers,methylene blue,1
+Biopolymers,water,1
+Biopolymers,clay,1
+Biopolymers,gelatin,1
+Biopolymers,Alkynes,1
+Biopolymers,samples,1
+Biopolymers,alpha-chitin,1
+Biopolymers,Crystallography,1
+Biopolymers,TEM,1
+Biopolymers,titania,1
+Biopolymers,carboxymethylcellulose,1
+Biopolymers,Thermogravimetry,1
+Biopolymers,transmission electron microscopy,1
+Biopolymers,anatase,1
+Biopolymers,rutile,1
+Phosphates,water,3
+Phosphates,slurry,1
+Phosphates,sedimentation,1
+Phosphates,reactions,1
+Phosphates,aromatic,1
+Phosphates,aryl bromides,1
+Phosphates,acetone,2
+Phosphates,nitriles,1
+Phosphates,palladium,2
+Phosphates,amides,1
+Phosphates,chlorides,1
+Phosphates,aryl boronic acids,1
+slurry,water,1
+slurry,Phosphates,1
+slurry,sedimentation,1
+sedimentation,water,1
+sedimentation,Phosphates,1
+sedimentation,slurry,1
+fossil,cellulose,1
+fossil,bio-oil,1
+fossil,Biofuels,1
+fossil,pretreatment,1
+fossil,Chemical fractionation,1
+fossil,crystallinity,1
+fossil,advantages/disadvantages,1
+fossil,high oxygen content,1
+fossil,Oils,1
+fossil,oxygenated compounds,1
+fossil,HDO,1
+fossil,coke,1
+pretreatment,cellulose,1
+pretreatment,Biofuels,1
+pretreatment,fossil,1
+pretreatment,Chemical fractionation,1
+pretreatment,crystallinity,1
+pretreatment,advantages/disadvantages,1
+pretreatment,sugars,1
+pretreatment,furfural,1
+pretreatment,hot water,1
+pretreatment,organic acids,1
+pretreatment,substance,1
+Chemical fractionation,cellulose,2
+Chemical fractionation,Biofuels,1
+Chemical fractionation,water,1
+Chemical fractionation,fossil,1
+Chemical fractionation,pretreatment,1
+Chemical fractionation,crystallinity,1
+Chemical fractionation,advantages/disadvantages,1
+Chemical fractionation,wood,1
+Chemical fractionation,Lignin,1
+Chemical fractionation,hemicellulose,1
+Chemical fractionation,aromatic,1
+Chemical fractionation,furan compounds,1
+Chemical fractionation,5-hydroxymethylfurfural,1
+Chemical fractionation,vanillin,1
+Chemical fractionation,syringaldehyde,1
+crystallinity,Ions,1
+crystallinity,cellulose,1
+crystallinity,"Spectroscopy, Fourier Transform Infrared",1
+crystallinity,X-Ray Diffraction,1
+crystallinity,scanning electron microscopy,1
+crystallinity,Biofuels,1
+crystallinity,fossil,1
+crystallinity,pretreatment,1
+crystallinity,Chemical fractionation,1
+crystallinity,advantages/disadvantages,1
+crystallinity,X-Ray Photoelectron Spectroscopy,1
+crystallinity,samples,1
+crystallinity,perovskite,1
+crystallinity,Crystallography,1
+crystallinity,photoluminescence technique,1
+crystallinity,Thermogravimetry,1
+crystallinity,Fe3O4,1
+crystallinity,magnetite,1
+crystallinity,sonochemical procedure,1
+crystallinity,4-nitrophenol,1
+advantages/disadvantages,cellulose,1
+advantages/disadvantages,Biofuels,1
+advantages/disadvantages,fossil,1
+advantages/disadvantages,pretreatment,1
+advantages/disadvantages,Chemical fractionation,1
+advantages/disadvantages,crystallinity,1
+butanol extract,compounds,1
+butanol extract,Phytochemicals,1
+butanol extract,phenolic acids,1
+butanol extract,Flavonoids,1
+butanol extract,gelatin,1
+butanol extract,insulin,1
+butanol extract,amino acids,1
+butanol extract,fatty acids,1
+butanol extract,carbohydrates,1
+gelatin,Materials,1
+gelatin,compounds,1
+gelatin,polysaccharides,1
+gelatin,alginate,1
+gelatin,Freeze Drying,1
+gelatin,"Spectroscopy, Fourier Transform Infrared",1
+gelatin,X-Ray Diffraction,1
+gelatin,Phytochemicals,1
+gelatin,phenolic acids,1
+gelatin,Flavonoids,1
+gelatin,scanning electron microscopy,1
+gelatin,Biopolymers,1
+gelatin,butanol extract,1
+gelatin,insulin,1
+gelatin,amino acids,1
+gelatin,fatty acids,1
+gelatin,carbohydrates,1
+gelatin,samples,1
+gelatin,Crystallography,1
+gelatin,TEM,1
+gelatin,titania,1
+gelatin,carboxymethylcellulose,1
+gelatin,Thermogravimetry,1
+gelatin,transmission electron microscopy,1
+gelatin,anatase,1
+gelatin,rutile,1
+insulin,compounds,1
+insulin,Phytochemicals,1
+insulin,phenolic acids,1
+insulin,Flavonoids,1
+insulin,butanol extract,1
+insulin,gelatin,1
+insulin,amino acids,1
+insulin,fatty acids,1
+insulin,carbohydrates,1
+amino acids,compounds,1
+amino acids,Phytochemicals,1
+amino acids,phenolic acids,1
+amino acids,Flavonoids,1
+amino acids,butanol extract,1
+amino acids,gelatin,1
+amino acids,insulin,1
+amino acids,fatty acids,1
+amino acids,carbohydrates,1
+fatty acids,compounds,1
+fatty acids,"Spectroscopy, Fourier Transform Infrared",1
+fatty acids,Phytochemicals,1
+fatty acids,phenolic acids,1
+fatty acids,Flavonoids,1
+fatty acids,butanol extract,1
+fatty acids,gelatin,1
+fatty acids,insulin,1
+fatty acids,amino acids,1
+fatty acids,carbohydrates,1
+fatty acids,samples,1
+fatty acids,Oils,1
+fatty acids,Moroccan,1
+fatty acids,peroxide value,1
+fatty acids,spectrophotometric indices,1
+fatty acids,sterols,1
+fatty acids,tocopherol,1
+fatty acids,PCA,1
+fatty acids,chemical profiling,1
+fatty acids,gamma-tocopherol,1
+fatty acids,delta-tocopherol,1
+fatty acids,22-dien-3 beta-ol,1
+fatty acids,stearic acid,1
+fatty acids,linoleic acid,1
+carbohydrates,compounds,1
+carbohydrates,Phytochemicals,1
+carbohydrates,phenolic acids,1
+carbohydrates,Flavonoids,1
+carbohydrates,butanol extract,1
+carbohydrates,gelatin,1
+carbohydrates,insulin,1
+carbohydrates,amino acids,1
+carbohydrates,fatty acids,1
+Alkynes,compounds,1
+Alkynes,Spectrum Analysis,1
+Alkynes,Solutions,1
+Alkynes,"Spectroscopy, Fourier Transform Infrared",1
+Alkynes,analysis,1
+Alkynes,X-Ray Diffraction,1
+Alkynes,scanning electron microscopy,1
+Alkynes,"Crystallography, X-Ray",1
+Alkynes,water,1
+Alkynes,Biopolymers,1
+Alkynes,reactions,1
+Alkynes,Alkenes,2
+Alkynes,NaCl,1
+Alkynes,halogen bonding,1
+Alkynes,chloride ions,1
+Alkynes,alpha-chitin,1
+Alkynes,unsaturated lactones,1
+Alkynes,amino group,1
+Alkynes,Oxides,1
+Alkynes,Isoxazoles,1
+Alkynes,Aldehydes,1
+Alkynes,hydroxylamine hydrochloride,1
+Alkynes,5b,1
+reactions,Solutions,1
+reactions,water,1
+reactions,Phosphates,1
+reactions,Alkynes,1
+reactions,Alkenes,1
+reactions,NaCl,1
+reactions,halogen bonding,1
+reactions,chloride ions,1
+reactions,aromatic,1
+reactions,acetone,1
+reactions,nitriles,1
+reactions,palladium,1
+reactions,amides,1
+Alkenes,compounds,1
+Alkenes,Solutions,1
+Alkenes,"Crystallography, X-Ray",1
+Alkenes,Alkynes,2
+Alkenes,reactions,1
+Alkenes,NaCl,1
+Alkenes,halogen bonding,1
+Alkenes,chloride ions,1
+Alkenes,Oxides,1
+Alkenes,Isoxazoles,1
+Alkenes,Aldehydes,1
+Alkenes,hydroxylamine hydrochloride,1
+Alkenes,5b,1
+NaCl,Solutions,1
+NaCl,Alkynes,1
+NaCl,reactions,1
+NaCl,Alkenes,1
+NaCl,halogen bonding,1
+NaCl,chloride ions,1
+halogen bonding,Solutions,1
+halogen bonding,Alkynes,1
+halogen bonding,reactions,1
+halogen bonding,Alkenes,1
+halogen bonding,NaCl,1
+halogen bonding,chloride ions,1
+chloride ions,Solutions,1
+chloride ions,Alkynes,1
+chloride ions,reactions,1
+chloride ions,Alkenes,1
+chloride ions,NaCl,1
+chloride ions,halogen bonding,1
+X-Ray Photoelectron Spectroscopy,nitrogen,1
+X-Ray Photoelectron Spectroscopy,Ions,1
+X-Ray Photoelectron Spectroscopy,"Spectroscopy, Fourier Transform Infrared",1
+X-Ray Photoelectron Spectroscopy,X-Ray Diffraction,1
+X-Ray Photoelectron Spectroscopy,Pb2+,1
+X-Ray Photoelectron Spectroscopy,"Chemistry Techniques, Analytical",1
+X-Ray Photoelectron Spectroscopy,scanning electron microscopy,1
+X-Ray Photoelectron Spectroscopy,Carbon,1
+X-Ray Photoelectron Spectroscopy,water,1
+X-Ray Photoelectron Spectroscopy,crystallinity,1
+X-Ray Photoelectron Spectroscopy,copper,2
+X-Ray Photoelectron Spectroscopy,H2O2,1
+X-Ray Photoelectron Spectroscopy,phenol,1
+X-Ray Photoelectron Spectroscopy,catechol,1
+X-Ray Photoelectron Spectroscopy,hydroquinone,1
+X-Ray Photoelectron Spectroscopy,simple centrifugation,1
+X-Ray Photoelectron Spectroscopy,samples,1
+X-Ray Photoelectron Spectroscopy,Thermogravimetry,1
+X-Ray Photoelectron Spectroscopy,Microscopy,1
+X-Ray Photoelectron Spectroscopy,crystal lattice,1
+X-Ray Photoelectron Spectroscopy,indole,1
+X-Ray Photoelectron Spectroscopy,aryl bromides,1
+X-Ray Photoelectron Spectroscopy,cupric cation,2
+X-Ray Photoelectron Spectroscopy,KBr,1
+X-Ray Photoelectron Spectroscopy,Fe3O4,1
+X-Ray Photoelectron Spectroscopy,magnetite,1
+X-Ray Photoelectron Spectroscopy,sonochemical procedure,1
+X-Ray Photoelectron Spectroscopy,4-nitrophenol,1
+X-Ray Photoelectron Spectroscopy,ethylenediamine,1
+copper,nitrogen,1
+copper,analysis,1
+copper,studies,1
+copper,"Chemistry Techniques, Analytical",1
+copper,X-Ray Photoelectron Spectroscopy,2
+copper,H2O2,1
+copper,phenol,1
+copper,catechol,1
+copper,hydroquinone,1
+copper,simple centrifugation,1
+copper,Microscopy,1
+copper,crystal lattice,1
+copper,indole,1
+copper,aryl bromides,1
+copper,cupric cation,2
+copper,KBr,1
+copper,chitosan,1
+copper,EPR spectroscopy,1
+copper,Cu(I),1
+copper,triazoles,1
+H2O2,"Chemistry Techniques, Analytical",1
+H2O2,X-Ray Photoelectron Spectroscopy,1
+H2O2,copper,1
+H2O2,phenol,1
+H2O2,catechol,1
+H2O2,hydroquinone,1
+H2O2,simple centrifugation,1
+phenol,"Chemistry Techniques, Analytical",1
+phenol,X-Ray Photoelectron Spectroscopy,1
+phenol,copper,1
+phenol,H2O2,1
+phenol,catechol,1
+phenol,hydroquinone,1
+phenol,simple centrifugation,1
+catechol,Materials,1
+catechol,Laboratory Procedures,1
+catechol,"Chemistry Techniques, Analytical",1
+catechol,Carbon,1
+catechol,activated carbon,1
+catechol,X-Ray Photoelectron Spectroscopy,1
+catechol,copper,1
+catechol,H2O2,1
+catechol,phenol,1
+catechol,hydroquinone,1
+catechol,simple centrifugation,1
+catechol,Electrons,1
+catechol,samples,1
+catechol,Chemical method,1
+catechol,charge transfer,1
+catechol,catechol oxidation,1
+catechol,tap water,1
+hydroquinone,"Chemistry Techniques, Analytical",1
+hydroquinone,X-Ray Photoelectron Spectroscopy,1
+hydroquinone,copper,1
+hydroquinone,H2O2,1
+hydroquinone,phenol,1
+hydroquinone,catechol,1
+hydroquinone,simple centrifugation,1
+simple centrifugation,"Chemistry Techniques, Analytical",1
+simple centrifugation,X-Ray Photoelectron Spectroscopy,1
+simple centrifugation,copper,1
+simple centrifugation,H2O2,1
+simple centrifugation,phenol,1
+simple centrifugation,catechol,1
+simple centrifugation,hydroquinone,1
+lithium,Materials,1
+lithium,manganese,1
+lithium,cobalt,1
+lithium,K,1
+lithium,nitrides,1
+lithium,ammonia,1
+lithium,in situ neutron diffraction studies,1
+cobalt,lithium,1
+cobalt,K,1
+K,X-Ray Diffraction,1
+K,lithium,1
+K,cobalt,1
+K,Dielectric Spectroscopy,1
+K,"Spectrum Analysis, Raman",1
+nickel,Materials,1
+nickel,X-Ray Diffraction,1
+nickel,manganese,1
+nickel,"Chemistry Techniques, Analytical",1
+nickel,metal oxide,1
+nickel,oxygen,1
+nickel,soft X-ray absorption spectroscopy,1
+nickel,Electrons,1
+metal oxide,phosphorus,1
+metal oxide,Materials,2
+metal oxide,cellulose,1
+metal oxide,X-Ray Diffraction,2
+metal oxide,manganese,1
+metal oxide,Anions,1
+metal oxide,Phosphonates,1
+metal oxide,"Chemistry Techniques, Analytical",1
+metal oxide,MIC,1
+metal oxide,MBC,1
+metal oxide,nickel,1
+metal oxide,oxygen,1
+metal oxide,soft X-ray absorption spectroscopy,1
+metal oxide,Electrons,1
+metal oxide,neodymium,1
+metal oxide,Oxides,1
+metal oxide,ZnO,1
+metal oxide,infrared spectroscopy,1
+metal oxide,phosphoryl chloride,1
+metal oxide,hexachlorocyclotriphosphazene,1
+metal oxide,modified cellulose,1
+metal oxide,carboxymethylcellulose analogues,1
+oxygen,Materials,1
+oxygen,X-Ray Diffraction,1
+oxygen,manganese,1
+oxygen,Anions,1
+oxygen,"Chemistry Techniques, Analytical",1
+oxygen,nickel,1
+oxygen,metal oxide,1
+oxygen,soft X-ray absorption spectroscopy,1
+oxygen,Electrons,1
+oxygen,graphene oxide,1
+oxygen,graphene,1
+oxygen,electrochemical,1
+oxygen,Oxides,1
+oxygen,moduli,1
+soft X-ray absorption spectroscopy,Materials,1
+soft X-ray absorption spectroscopy,X-Ray Diffraction,1
+soft X-ray absorption spectroscopy,manganese,1
+soft X-ray absorption spectroscopy,"Chemistry Techniques, Analytical",1
+soft X-ray absorption spectroscopy,nickel,1
+soft X-ray absorption spectroscopy,metal oxide,1
+soft X-ray absorption spectroscopy,oxygen,1
+soft X-ray absorption spectroscopy,Electrons,1
+Electrons,Materials,3
+Electrons,Solutions,1
+Electrons,Laboratory Procedures,1
+Electrons,X-Ray Diffraction,1
+Electrons,manganese,1
+Electrons,"Chemistry Techniques, Analytical",1
+Electrons,Carbon,1
+Electrons,activated carbon,1
+Electrons,catechol,1
+Electrons,nickel,1
+Electrons,metal oxide,1
+Electrons,oxygen,1
+Electrons,soft X-ray absorption spectroscopy,1
+Electrons,samples,1
+Electrons,substituted,1
+Electrons,intramolecular charge transfer,1
+Electrons,Chemical method,1
+Electrons,charge transfer,1
+Electrons,catechol oxidation,1
+Electrons,tap water,1
+electron microscopy analysis,Materials,1
+electron microscopy analysis,methylene blue,1
+electron microscopy analysis,Phenol,1
+Phenol,Materials,1
+Phenol,methylene blue,1
+Phenol,electron microscopy analysis,1
+apatites,phosphorus,1
+apatites,Materials,1
+apatites,analysis,1
+apatites,samples,1
+apatites,Bovin Serum Albumin,1
+apatites,Molecule,1
+samples,phosphorus,1
+samples,Materials,3
+samples,polysaccharides,1
+samples,alginate,1
+samples,Freeze Drying,1
+samples,"Spectroscopy, Fourier Transform Infrared",3
+samples,analysis,1
+samples,Laboratory Procedures,1
+samples,X-Ray Diffraction,2
+samples,scanning electron microscopy,2
+samples,Carbon,1
+samples,activated carbon,1
+samples,Biopolymers,1
+samples,crystallinity,1
+samples,gelatin,1
+samples,fatty acids,1
+samples,X-Ray Photoelectron Spectroscopy,1
+samples,catechol,1
+samples,Electrons,1
+samples,apatites,1
+samples,Bovin Serum Albumin,1
+samples,Molecule,1
+samples,Crystallography,1
+samples,TEM,1
+samples,Chemical method,1
+samples,Oils,1
+samples,Moroccan,1
+samples,charge transfer,1
+samples,catechol oxidation,1
+samples,tap water,1
+samples,peroxide value,1
+samples,spectrophotometric indices,1
+samples,sterols,1
+samples,tocopherol,1
+samples,PCA,1
+samples,chemical profiling,1
+samples,gamma-tocopherol,1
+samples,delta-tocopherol,1
+samples,22-dien-3 beta-ol,1
+samples,stearic acid,1
+samples,linoleic acid,1
+samples,titania,1
+samples,carboxymethylcellulose,1
+samples,Thermogravimetry,2
+samples,transmission electron microscopy,1
+samples,anatase,1
+samples,rutile,1
+samples,Fe3O4,1
+samples,magnetite,1
+samples,sonochemical procedure,1
+samples,4-nitrophenol,1
+Bovin Serum Albumin,phosphorus,1
+Bovin Serum Albumin,Materials,1
+Bovin Serum Albumin,analysis,1
+Bovin Serum Albumin,apatites,1
+Bovin Serum Albumin,samples,1
+Bovin Serum Albumin,Molecule,1
+Molecule,phosphorus,2
+Molecule,Materials,2
+Molecule,compounds,2
+Molecule,Solutions,2
+Molecule,Ions,1
+Molecule,analysis,3
+Molecule,studies,1
+Molecule,X-Ray Diffraction,1
+Molecule,scanning electron microscopy,1
+Molecule,water,1
+Molecule,apatites,1
+Molecule,samples,1
+Molecule,Bovin Serum Albumin,1
+Molecule,benzoic acid,2
+Molecule,para-hydroxybenzoic acid,1
+Molecule,"3,4-dihydroxybenzoic acid",1
+Molecule,Dielectric Spectroscopy,1
+Molecule,iron,1
+Molecule,Lignin,1
+Molecule,vanillin,1
+Molecule,syringaldehyde,1
+Molecule,Oxides,1
+Molecule,charge transfer,1
+Molecule,Tetraphenyl,1
+Molecule,imidazole,1
+Molecule,MEP,2
+Molecule,DMF,1
+Molecule,Aldehydes,1
+Molecule,straw,1
+Molecule,water-soluble oligomers,1
+Molecule,chemical elements,1
+Molecule,hydronium ion,1
+Molecule,H3O+,1
+Molecule,hydrogen atom and ion,1
+Molecule,hydroxide ion,1
+Molecule,atoms,1
+Molecule,labile,1
+benzoic acid,compounds,1
+benzoic acid,analysis,1
+benzoic acid,scanning electron microscopy,1
+benzoic acid,water,1
+benzoic acid,Molecule,2
+benzoic acid,para-hydroxybenzoic acid,1
+benzoic acid,"3,4-dihydroxybenzoic acid",1
+benzoic acid,Dielectric Spectroscopy,1
+benzoic acid,iron,1
+benzoic acid,Lignin,1
+benzoic acid,vanillin,1
+benzoic acid,syringaldehyde,1
+benzoic acid,Oxides,1
+benzoic acid,Aldehydes,1
+benzoic acid,straw,1
+benzoic acid,water-soluble oligomers,1
+para-hydroxybenzoic acid,compounds,1
+para-hydroxybenzoic acid,analysis,1
+para-hydroxybenzoic acid,scanning electron microscopy,1
+para-hydroxybenzoic acid,Molecule,1
+para-hydroxybenzoic acid,benzoic acid,1
+para-hydroxybenzoic acid,"3,4-dihydroxybenzoic acid",1
+para-hydroxybenzoic acid,Dielectric Spectroscopy,1
+para-hydroxybenzoic acid,iron,1
+"3,4-dihydroxybenzoic acid",compounds,1
+"3,4-dihydroxybenzoic acid",analysis,1
+"3,4-dihydroxybenzoic acid",scanning electron microscopy,1
+"3,4-dihydroxybenzoic acid",Molecule,1
+"3,4-dihydroxybenzoic acid",benzoic acid,1
+"3,4-dihydroxybenzoic acid",para-hydroxybenzoic acid,1
+"3,4-dihydroxybenzoic acid",Dielectric Spectroscopy,1
+"3,4-dihydroxybenzoic acid",iron,1
+Dielectric Spectroscopy,compounds,1
+Dielectric Spectroscopy,analysis,1
+Dielectric Spectroscopy,X-Ray Diffraction,1
+Dielectric Spectroscopy,scanning electron microscopy,1
+Dielectric Spectroscopy,K,1
+Dielectric Spectroscopy,Molecule,1
+Dielectric Spectroscopy,benzoic acid,1
+Dielectric Spectroscopy,para-hydroxybenzoic acid,1
+Dielectric Spectroscopy,"3,4-dihydroxybenzoic acid",1
+Dielectric Spectroscopy,iron,1
+Dielectric Spectroscopy,"Spectrum Analysis, Raman",1
+iron,compounds,2
+iron,"Spectroscopy, Fourier Transform Infrared",1
+iron,analysis,1
+iron,X-Ray Diffraction,1
+iron,Mass Spectrometry,1
+iron,scanning electron microscopy,1
+iron,Molecule,1
+iron,benzoic acid,1
+iron,para-hydroxybenzoic acid,1
+iron,"3,4-dihydroxybenzoic acid",1
+iron,Dielectric Spectroscopy,1
+iron,Schiff Bases,1
+iron,magnetite,1
+iron,M,1
+iron,ferric ion,1
+iron,Scanning electron microscopy,1
+iron,cells,1
+"Spectrum Analysis, Raman",Materials,1
+"Spectrum Analysis, Raman",compounds,2
+"Spectrum Analysis, Raman",analysis,1
+"Spectrum Analysis, Raman",X-Ray Diffraction,4
+"Spectrum Analysis, Raman",scanning electron microscopy,1
+"Spectrum Analysis, Raman",water,1
+"Spectrum Analysis, Raman",K,1
+"Spectrum Analysis, Raman",Dielectric Spectroscopy,1
+"Spectrum Analysis, Raman",air,2
+"Spectrum Analysis, Raman",Analysis,1
+"Spectrum Analysis, Raman",calcium amount,1
+"Spectrum Analysis, Raman","Spectroscopy, Mossbauer",1
+"Spectrum Analysis, Raman",salicylic acid,1
+"Spectrum Analysis, Raman",naproxen,1
+"Spectrum Analysis, Raman",ketoprofen,1
+"Spectrum Analysis, Raman",Fourier transform infrared spectrometry,1
+epsilon-caprolactone,Materials,1
+epsilon-caprolactone,poly(epsilon-caprolactone,2
+epsilon-caprolactone,tin,1
+epsilon-caprolactone,phosphorus pentoxide,1
+epsilon-caprolactone,P2O5,1
+epsilon-caprolactone,isopropanol,1
+poly(epsilon-caprolactone,Materials,1
+poly(epsilon-caprolactone,epsilon-caprolactone,2
+poly(epsilon-caprolactone,tin,1
+poly(epsilon-caprolactone,phosphorus pentoxide,1
+poly(epsilon-caprolactone,P2O5,1
+poly(epsilon-caprolactone,isopropanol,1
+tin,Materials,1
+tin,epsilon-caprolactone,1
+tin,poly(epsilon-caprolactone,1
+alpha-chitin,Spectrum Analysis,1
+alpha-chitin,"Spectroscopy, Fourier Transform Infrared",1
+alpha-chitin,analysis,1
+alpha-chitin,X-Ray Diffraction,1
+alpha-chitin,scanning electron microscopy,1
+alpha-chitin,water,1
+alpha-chitin,Biopolymers,1
+alpha-chitin,Alkynes,1
+perovskite,Ions,1
+perovskite,crystallinity,1
+perovskite,Crystallography,1
+perovskite,photoluminescence technique,1
+Crystallography,Materials,1
+Crystallography,polysaccharides,1
+Crystallography,alginate,1
+Crystallography,Freeze Drying,1
+Crystallography,Ions,1
+Crystallography,"Spectroscopy, Fourier Transform Infrared",1
+Crystallography,X-Ray Diffraction,1
+Crystallography,scanning electron microscopy,1
+Crystallography,Biopolymers,1
+Crystallography,crystallinity,1
+Crystallography,gelatin,1
+Crystallography,samples,1
+Crystallography,perovskite,1
+Crystallography,photoluminescence technique,1
+Crystallography,TEM,1
+Crystallography,titania,1
+Crystallography,carboxymethylcellulose,1
+Crystallography,Thermogravimetry,1
+Crystallography,transmission electron microscopy,1
+Crystallography,anatase,1
+Crystallography,rutile,1
+photoluminescence technique,Ions,1
+photoluminescence technique,crystallinity,1
+photoluminescence technique,perovskite,1
+photoluminescence technique,Crystallography,1
+unsaturated lactones,Alkynes,1
+unsaturated lactones,amino group,1
+amino group,Alkynes,1
+amino group,unsaturated lactones,1
+europium,Solutions,1
+europium,samarium,1
+europium,Sm,1
+europium,neodymium,1
+europium,Inductively-Coupled Plasma Mass Spectrometry,1
+europium,TEM,1
+europium,EPS,1
+europium,enrichment,1
+samarium,Solutions,1
+samarium,europium,1
+samarium,Sm,1
+samarium,neodymium,1
+samarium,Inductively-Coupled Plasma Mass Spectrometry,1
+samarium,TEM,1
+samarium,EPS,1
+samarium,enrichment,1
+Sm,Solutions,1
+Sm,europium,1
+Sm,samarium,1
+Sm,neodymium,1
+Sm,Inductively-Coupled Plasma Mass Spectrometry,1
+Sm,TEM,1
+Sm,EPS,1
+Sm,enrichment,1
+neodymium,Materials,1
+neodymium,Solutions,1
+neodymium,X-Ray Diffraction,1
+neodymium,MIC,1
+neodymium,MBC,1
+neodymium,metal oxide,1
+neodymium,europium,1
+neodymium,samarium,1
+neodymium,Sm,1
+neodymium,Inductively-Coupled Plasma Mass Spectrometry,1
+neodymium,TEM,1
+neodymium,EPS,1
+neodymium,enrichment,1
+neodymium,Oxides,1
+neodymium,ZnO,1
+neodymium,infrared spectroscopy,1
+Inductively-Coupled Plasma Mass Spectrometry,Solutions,1
+Inductively-Coupled Plasma Mass Spectrometry,europium,1
+Inductively-Coupled Plasma Mass Spectrometry,samarium,1
+Inductively-Coupled Plasma Mass Spectrometry,Sm,1
+Inductively-Coupled Plasma Mass Spectrometry,neodymium,1
+Inductively-Coupled Plasma Mass Spectrometry,TEM,1
+Inductively-Coupled Plasma Mass Spectrometry,EPS,1
+Inductively-Coupled Plasma Mass Spectrometry,enrichment,1
+TEM,Materials,1
+TEM,polysaccharides,1
+TEM,alginate,1
+TEM,Solutions,1
+TEM,Freeze Drying,1
+TEM,"Spectroscopy, Fourier Transform Infrared",1
+TEM,X-Ray Diffraction,1
+TEM,scanning electron microscopy,1
+TEM,Biopolymers,1
+TEM,gelatin,1
+TEM,samples,1
+TEM,Crystallography,1
+TEM,europium,1
+TEM,samarium,1
+TEM,Sm,1
+TEM,neodymium,1
+TEM,Inductively-Coupled Plasma Mass Spectrometry,1
+TEM,EPS,1
+TEM,enrichment,1
+TEM,titania,1
+TEM,carboxymethylcellulose,1
+TEM,Thermogravimetry,1
+TEM,transmission electron microscopy,1
+TEM,anatase,1
+TEM,rutile,1
+EPS,Solutions,1
+EPS,europium,1
+EPS,samarium,1
+EPS,Sm,1
+EPS,neodymium,1
+EPS,Inductively-Coupled Plasma Mass Spectrometry,1
+EPS,TEM,1
+EPS,enrichment,1
+enrichment,Solutions,1
+enrichment,europium,1
+enrichment,samarium,1
+enrichment,Sm,1
+enrichment,neodymium,1
+enrichment,Inductively-Coupled Plasma Mass Spectrometry,1
+enrichment,TEM,1
+enrichment,EPS,1
+wood,cellulose,1
+wood,water,1
+wood,Chemical fractionation,1
+wood,Lignin,1
+wood,hemicellulose,1
+wood,aromatic,1
+wood,furan compounds,1
+wood,5-hydroxymethylfurfural,1
+wood,vanillin,1
+wood,syringaldehyde,1
+Lignin,alginate,1
+Lignin,cellulose,1
+Lignin,X-Ray Diffraction,1
+Lignin,water,3
+Lignin,Chemical fractionation,1
+Lignin,Molecule,1
+Lignin,benzoic acid,1
+Lignin,wood,1
+Lignin,hemicellulose,1
+Lignin,aromatic,1
+Lignin,furan compounds,1
+Lignin,5-hydroxymethylfurfural,1
+Lignin,vanillin,2
+Lignin,syringaldehyde,2
+Lignin,Oxides,2
+Lignin,size exclusion chromatography,1
+Lignin,aromatic compounds,1
+Lignin,Aldehydes,1
+Lignin,straw,1
+Lignin,water-soluble oligomers,1
+hemicellulose,cellulose,1
+hemicellulose,water,1
+hemicellulose,Chemical fractionation,1
+hemicellulose,wood,1
+hemicellulose,Lignin,1
+hemicellulose,aromatic,1
+hemicellulose,furan compounds,1
+hemicellulose,5-hydroxymethylfurfural,1
+hemicellulose,vanillin,1
+hemicellulose,syringaldehyde,1
+aromatic,cellulose,1
+aromatic,water,2
+aromatic,Phosphates,1
+aromatic,Chemical fractionation,1
+aromatic,reactions,1
+aromatic,wood,1
+aromatic,Lignin,1
+aromatic,hemicellulose,1
+aromatic,furan compounds,1
+aromatic,5-hydroxymethylfurfural,1
+aromatic,vanillin,1
+aromatic,syringaldehyde,1
+aromatic,acetone,1
+aromatic,nitriles,1
+aromatic,palladium,1
+aromatic,amides,1
+furan compounds,cellulose,1
+furan compounds,water,1
+furan compounds,Chemical fractionation,1
+furan compounds,wood,1
+furan compounds,Lignin,1
+furan compounds,hemicellulose,1
+furan compounds,aromatic,1
+furan compounds,5-hydroxymethylfurfural,1
+furan compounds,vanillin,1
+furan compounds,syringaldehyde,1
+5-hydroxymethylfurfural,cellulose,1
+5-hydroxymethylfurfural,water,1
+5-hydroxymethylfurfural,Chemical fractionation,1
+5-hydroxymethylfurfural,wood,1
+5-hydroxymethylfurfural,Lignin,1
+5-hydroxymethylfurfural,hemicellulose,1
+5-hydroxymethylfurfural,aromatic,1
+5-hydroxymethylfurfural,furan compounds,1
+5-hydroxymethylfurfural,vanillin,1
+5-hydroxymethylfurfural,syringaldehyde,1
+vanillin,cellulose,1
+vanillin,water,2
+vanillin,Chemical fractionation,1
+vanillin,Molecule,1
+vanillin,benzoic acid,1
+vanillin,wood,1
+vanillin,Lignin,2
+vanillin,hemicellulose,1
+vanillin,aromatic,1
+vanillin,furan compounds,1
+vanillin,5-hydroxymethylfurfural,1
+vanillin,syringaldehyde,2
+vanillin,Oxides,1
+vanillin,Aldehydes,1
+vanillin,straw,1
+vanillin,water-soluble oligomers,1
+syringaldehyde,cellulose,1
+syringaldehyde,water,2
+syringaldehyde,Chemical fractionation,1
+syringaldehyde,Molecule,1
+syringaldehyde,benzoic acid,1
+syringaldehyde,wood,1
+syringaldehyde,Lignin,2
+syringaldehyde,hemicellulose,1
+syringaldehyde,aromatic,1
+syringaldehyde,furan compounds,1
+syringaldehyde,5-hydroxymethylfurfural,1
+syringaldehyde,vanillin,2
+syringaldehyde,Oxides,1
+syringaldehyde,Aldehydes,1
+syringaldehyde,straw,1
+syringaldehyde,water-soluble oligomers,1
+substituted,Materials,1
+substituted,Solutions,1
+substituted,Electrons,1
+substituted,intramolecular charge transfer,1
+intramolecular charge transfer,Materials,1
+intramolecular charge transfer,Solutions,1
+intramolecular charge transfer,Electrons,1
+intramolecular charge transfer,substituted,1
+Chemical method,Materials,1
+Chemical method,Spectrum Analysis,1
+Chemical method,analysis,1
+Chemical method,Laboratory Procedures,1
+Chemical method,Carbon,1
+Chemical method,activated carbon,1
+Chemical method,catechol,1
+Chemical method,Electrons,1
+Chemical method,samples,1
+Chemical method,soil,1
+Chemical method,charge transfer,1
+Chemical method,catechol oxidation,1
+Chemical method,tap water,1
+soil,Spectrum Analysis,1
+soil,analysis,1
+soil,Chemical method,1
+tetracyclic indoline,strychnos alkaloids,1
+tetracyclic indoline,strychnine,1
+strychnos alkaloids,tetracyclic indoline,1
+strychnos alkaloids,strychnine,1
+strychnine,tetracyclic indoline,1
+strychnine,strychnos alkaloids,1
+high oxygen content,bio-oil,1
+high oxygen content,fossil,1
+high oxygen content,Oils,1
+high oxygen content,oxygenated compounds,1
+high oxygen content,HDO,1
+high oxygen content,coke,1
+Oils,"Spectroscopy, Fourier Transform Infrared",1
+Oils,bio-oil,1
+Oils,fossil,1
+Oils,fatty acids,1
+Oils,samples,1
+Oils,high oxygen content,1
+Oils,oxygenated compounds,1
+Oils,HDO,1
+Oils,coke,1
+Oils,Moroccan,1
+Oils,peroxide value,1
+Oils,spectrophotometric indices,1
+Oils,sterols,1
+Oils,tocopherol,1
+Oils,PCA,1
+Oils,chemical profiling,1
+Oils,gamma-tocopherol,1
+Oils,delta-tocopherol,1
+Oils,22-dien-3 beta-ol,1
+Oils,stearic acid,1
+Oils,linoleic acid,1
+oxygenated compounds,bio-oil,1
+oxygenated compounds,fossil,1
+oxygenated compounds,high oxygen content,1
+oxygenated compounds,Oils,1
+oxygenated compounds,HDO,1
+oxygenated compounds,coke,1
+HDO,bio-oil,1
+HDO,fossil,1
+HDO,high oxygen content,1
+HDO,Oils,1
+HDO,oxygenated compounds,1
+HDO,coke,1
+coke,bio-oil,1
+coke,fossil,1
+coke,high oxygen content,1
+coke,Oils,1
+coke,oxygenated compounds,1
+coke,HDO,1
+phosphorus pentoxide,epsilon-caprolactone,1
+phosphorus pentoxide,poly(epsilon-caprolactone,1
+phosphorus pentoxide,P2O5,1
+phosphorus pentoxide,isopropanol,1
+P2O5,epsilon-caprolactone,1
+P2O5,poly(epsilon-caprolactone,1
+P2O5,phosphorus pentoxide,1
+P2O5,isopropanol,1
+isopropanol,epsilon-caprolactone,1
+isopropanol,poly(epsilon-caprolactone,1
+isopropanol,phosphorus pentoxide,1
+isopropanol,P2O5,1
+Moroccan,"Spectroscopy, Fourier Transform Infrared",1
+Moroccan,methylene blue,1
+Moroccan,fatty acids,1
+Moroccan,samples,1
+Moroccan,Oils,1
+Moroccan,AG,1
+Moroccan,OP,1
+Moroccan,solid-liquid,1
+Moroccan,sorption,1
+Moroccan,peroxide value,1
+Moroccan,spectrophotometric indices,1
+Moroccan,sterols,1
+Moroccan,tocopherol,1
+Moroccan,PCA,1
+Moroccan,chemical profiling,1
+Moroccan,gamma-tocopherol,1
+Moroccan,delta-tocopherol,1
+Moroccan,22-dien-3 beta-ol,1
+Moroccan,stearic acid,1
+Moroccan,linoleic acid,1
+AG,methylene blue,1
+AG,Moroccan,1
+AG,OP,1
+AG,solid-liquid,1
+AG,sorption,1
+OP,methylene blue,1
+OP,Moroccan,1
+OP,AG,1
+OP,solid-liquid,1
+OP,sorption,1
+solid-liquid,methylene blue,1
+solid-liquid,Moroccan,1
+solid-liquid,AG,1
+solid-liquid,OP,1
+solid-liquid,sorption,1
+sorption,methylene blue,1
+sorption,Moroccan,1
+sorption,AG,1
+sorption,OP,1
+sorption,solid-liquid,1
+graphene oxide,Anions,1
+graphene oxide,oxygen,1
+graphene oxide,graphene,1
+graphene oxide,electrochemical,1
+graphene oxide,Oxides,1
+graphene oxide,moduli,1
+graphene,Anions,1
+graphene,oxygen,1
+graphene,graphene oxide,1
+graphene,electrochemical,1
+graphene,Oxides,1
+graphene,moduli,1
+electrochemical,Anions,1
+electrochemical,oxygen,1
+electrochemical,graphene oxide,1
+electrochemical,graphene,1
+electrochemical,Oxides,1
+electrochemical,moduli,1
+Oxides,Materials,1
+Oxides,compounds,1
+Oxides,alginate,1
+Oxides,X-Ray Diffraction,2
+Oxides,Anions,1
+Oxides,"Crystallography, X-Ray",1
+Oxides,MIC,1
+Oxides,MBC,1
+Oxides,water,2
+Oxides,Alkynes,1
+Oxides,Alkenes,1
+Oxides,metal oxide,1
+Oxides,oxygen,1
+Oxides,Molecule,1
+Oxides,benzoic acid,1
+Oxides,neodymium,1
+Oxides,Lignin,2
+Oxides,vanillin,1
+Oxides,syringaldehyde,1
+Oxides,graphene oxide,1
+Oxides,graphene,1
+Oxides,electrochemical,1
+Oxides,moduli,1
+Oxides,ZnO,1
+Oxides,infrared spectroscopy,1
+Oxides,size exclusion chromatography,1
+Oxides,aromatic compounds,1
+Oxides,Isoxazoles,1
+Oxides,Aldehydes,2
+Oxides,hydroxylamine hydrochloride,1
+Oxides,5b,1
+Oxides,straw,1
+Oxides,water-soluble oligomers,1
+moduli,Anions,1
+moduli,oxygen,1
+moduli,graphene oxide,1
+moduli,graphene,1
+moduli,electrochemical,1
+moduli,Oxides,1
+charge transfer,Materials,1
+charge transfer,compounds,1
+charge transfer,analysis,1
+charge transfer,Laboratory Procedures,1
+charge transfer,Carbon,1
+charge transfer,activated carbon,1
+charge transfer,catechol,1
+charge transfer,Electrons,1
+charge transfer,samples,1
+charge transfer,Molecule,1
+charge transfer,Chemical method,1
+charge transfer,catechol oxidation,1
+charge transfer,tap water,1
+charge transfer,Tetraphenyl,1
+charge transfer,imidazole,1
+charge transfer,MEP,1
+charge transfer,DMF,1
+catechol oxidation,Materials,1
+catechol oxidation,Laboratory Procedures,1
+catechol oxidation,Carbon,1
+catechol oxidation,activated carbon,1
+catechol oxidation,catechol,1
+catechol oxidation,Electrons,1
+catechol oxidation,samples,1
+catechol oxidation,Chemical method,1
+catechol oxidation,charge transfer,1
+catechol oxidation,tap water,1
+tap water,Materials,1
+tap water,Laboratory Procedures,1
+tap water,Carbon,1
+tap water,activated carbon,1
+tap water,catechol,1
+tap water,Electrons,1
+tap water,samples,1
+tap water,Chemical method,1
+tap water,charge transfer,1
+tap water,catechol oxidation,1
+Tetraphenyl,compounds,1
+Tetraphenyl,analysis,1
+Tetraphenyl,Molecule,1
+Tetraphenyl,charge transfer,1
+Tetraphenyl,imidazole,1
+Tetraphenyl,MEP,1
+Tetraphenyl,DMF,1
+imidazole,compounds,1
+imidazole,analysis,1
+imidazole,Molecule,1
+imidazole,charge transfer,1
+imidazole,Tetraphenyl,1
+imidazole,MEP,1
+imidazole,DMF,1
+MEP,compounds,1
+MEP,Solutions,1
+MEP,analysis,1
+MEP,studies,1
+MEP,X-Ray Diffraction,1
+MEP,Molecule,2
+MEP,charge transfer,1
+MEP,Tetraphenyl,1
+MEP,imidazole,1
+MEP,DMF,1
+MEP,atoms,1
+MEP,labile,1
+DMF,compounds,1
+DMF,analysis,1
+DMF,Molecule,1
+DMF,charge transfer,1
+DMF,Tetraphenyl,1
+DMF,imidazole,1
+DMF,MEP,1
+peroxide value,"Spectroscopy, Fourier Transform Infrared",1
+peroxide value,fatty acids,1
+peroxide value,samples,1
+peroxide value,Oils,1
+peroxide value,Moroccan,1
+peroxide value,spectrophotometric indices,1
+peroxide value,sterols,1
+peroxide value,tocopherol,1
+peroxide value,PCA,1
+peroxide value,chemical profiling,1
+peroxide value,gamma-tocopherol,1
+peroxide value,delta-tocopherol,1
+peroxide value,22-dien-3 beta-ol,1
+peroxide value,stearic acid,1
+peroxide value,linoleic acid,1
+spectrophotometric indices,"Spectroscopy, Fourier Transform Infrared",1
+spectrophotometric indices,fatty acids,1
+spectrophotometric indices,samples,1
+spectrophotometric indices,Oils,1
+spectrophotometric indices,Moroccan,1
+spectrophotometric indices,peroxide value,1
+spectrophotometric indices,sterols,1
+spectrophotometric indices,tocopherol,1
+spectrophotometric indices,PCA,1
+spectrophotometric indices,chemical profiling,1
+spectrophotometric indices,gamma-tocopherol,1
+spectrophotometric indices,delta-tocopherol,1
+spectrophotometric indices,22-dien-3 beta-ol,1
+spectrophotometric indices,stearic acid,1
+spectrophotometric indices,linoleic acid,1
+sterols,"Spectroscopy, Fourier Transform Infrared",1
+sterols,fatty acids,1
+sterols,samples,1
+sterols,Oils,1
+sterols,Moroccan,1
+sterols,peroxide value,1
+sterols,spectrophotometric indices,1
+sterols,tocopherol,1
+sterols,PCA,1
+sterols,chemical profiling,1
+sterols,gamma-tocopherol,1
+sterols,delta-tocopherol,1
+sterols,22-dien-3 beta-ol,1
+sterols,stearic acid,1
+sterols,linoleic acid,1
+tocopherol,"Spectroscopy, Fourier Transform Infrared",1
+tocopherol,fatty acids,1
+tocopherol,samples,1
+tocopherol,Oils,1
+tocopherol,Moroccan,1
+tocopherol,peroxide value,1
+tocopherol,spectrophotometric indices,1
+tocopherol,sterols,1
+tocopherol,PCA,1
+tocopherol,chemical profiling,1
+tocopherol,gamma-tocopherol,1
+tocopherol,delta-tocopherol,1
+tocopherol,22-dien-3 beta-ol,1
+tocopherol,stearic acid,1
+tocopherol,linoleic acid,1
+PCA,"Spectroscopy, Fourier Transform Infrared",1
+PCA,fatty acids,1
+PCA,samples,1
+PCA,Oils,1
+PCA,Moroccan,1
+PCA,peroxide value,1
+PCA,spectrophotometric indices,1
+PCA,sterols,1
+PCA,tocopherol,1
+PCA,chemical profiling,1
+PCA,gamma-tocopherol,1
+PCA,delta-tocopherol,1
+PCA,22-dien-3 beta-ol,1
+PCA,stearic acid,1
+PCA,linoleic acid,1
+chemical profiling,"Spectroscopy, Fourier Transform Infrared",1
+chemical profiling,fatty acids,1
+chemical profiling,samples,1
+chemical profiling,Oils,1
+chemical profiling,Moroccan,1
+chemical profiling,peroxide value,1
+chemical profiling,spectrophotometric indices,1
+chemical profiling,sterols,1
+chemical profiling,tocopherol,1
+chemical profiling,PCA,1
+chemical profiling,gamma-tocopherol,1
+chemical profiling,delta-tocopherol,1
+chemical profiling,22-dien-3 beta-ol,1
+chemical profiling,stearic acid,1
+chemical profiling,linoleic acid,1
+gamma-tocopherol,"Spectroscopy, Fourier Transform Infrared",1
+gamma-tocopherol,fatty acids,1
+gamma-tocopherol,samples,1
+gamma-tocopherol,Oils,1
+gamma-tocopherol,Moroccan,1
+gamma-tocopherol,peroxide value,1
+gamma-tocopherol,spectrophotometric indices,1
+gamma-tocopherol,sterols,1
+gamma-tocopherol,tocopherol,1
+gamma-tocopherol,PCA,1
+gamma-tocopherol,chemical profiling,1
+gamma-tocopherol,delta-tocopherol,1
+gamma-tocopherol,22-dien-3 beta-ol,1
+gamma-tocopherol,stearic acid,1
+gamma-tocopherol,linoleic acid,1
+delta-tocopherol,"Spectroscopy, Fourier Transform Infrared",1
+delta-tocopherol,fatty acids,1
+delta-tocopherol,samples,1
+delta-tocopherol,Oils,1
+delta-tocopherol,Moroccan,1
+delta-tocopherol,peroxide value,1
+delta-tocopherol,spectrophotometric indices,1
+delta-tocopherol,sterols,1
+delta-tocopherol,tocopherol,1
+delta-tocopherol,PCA,1
+delta-tocopherol,chemical profiling,1
+delta-tocopherol,gamma-tocopherol,1
+delta-tocopherol,22-dien-3 beta-ol,1
+delta-tocopherol,stearic acid,1
+delta-tocopherol,linoleic acid,1
+22-dien-3 beta-ol,"Spectroscopy, Fourier Transform Infrared",1
+22-dien-3 beta-ol,fatty acids,1
+22-dien-3 beta-ol,samples,1
+22-dien-3 beta-ol,Oils,1
+22-dien-3 beta-ol,Moroccan,1
+22-dien-3 beta-ol,peroxide value,1
+22-dien-3 beta-ol,spectrophotometric indices,1
+22-dien-3 beta-ol,sterols,1
+22-dien-3 beta-ol,tocopherol,1
+22-dien-3 beta-ol,PCA,1
+22-dien-3 beta-ol,chemical profiling,1
+22-dien-3 beta-ol,gamma-tocopherol,1
+22-dien-3 beta-ol,delta-tocopherol,1
+22-dien-3 beta-ol,stearic acid,1
+22-dien-3 beta-ol,linoleic acid,1
+stearic acid,"Spectroscopy, Fourier Transform Infrared",1
+stearic acid,fatty acids,1
+stearic acid,samples,1
+stearic acid,Oils,1
+stearic acid,Moroccan,1
+stearic acid,peroxide value,1
+stearic acid,spectrophotometric indices,1
+stearic acid,sterols,1
+stearic acid,tocopherol,1
+stearic acid,PCA,1
+stearic acid,chemical profiling,1
+stearic acid,gamma-tocopherol,1
+stearic acid,delta-tocopherol,1
+stearic acid,22-dien-3 beta-ol,1
+stearic acid,linoleic acid,1
+linoleic acid,"Spectroscopy, Fourier Transform Infrared",1
+linoleic acid,fatty acids,1
+linoleic acid,samples,1
+linoleic acid,Oils,1
+linoleic acid,Moroccan,1
+linoleic acid,peroxide value,1
+linoleic acid,spectrophotometric indices,1
+linoleic acid,sterols,1
+linoleic acid,tocopherol,1
+linoleic acid,PCA,1
+linoleic acid,chemical profiling,1
+linoleic acid,gamma-tocopherol,1
+linoleic acid,delta-tocopherol,1
+linoleic acid,22-dien-3 beta-ol,1
+linoleic acid,stearic acid,1
+titania,Materials,1
+titania,polysaccharides,1
+titania,alginate,1
+titania,Freeze Drying,1
+titania,"Spectroscopy, Fourier Transform Infrared",1
+titania,X-Ray Diffraction,1
+titania,scanning electron microscopy,1
+titania,Biopolymers,1
+titania,gelatin,1
+titania,samples,1
+titania,Crystallography,1
+titania,TEM,1
+titania,carboxymethylcellulose,1
+titania,Thermogravimetry,1
+titania,transmission electron microscopy,1
+titania,anatase,1
+titania,rutile,1
+carboxymethylcellulose,Materials,1
+carboxymethylcellulose,polysaccharides,1
+carboxymethylcellulose,alginate,1
+carboxymethylcellulose,Freeze Drying,1
+carboxymethylcellulose,"Spectroscopy, Fourier Transform Infrared",1
+carboxymethylcellulose,X-Ray Diffraction,1
+carboxymethylcellulose,scanning electron microscopy,1
+carboxymethylcellulose,Biopolymers,1
+carboxymethylcellulose,gelatin,1
+carboxymethylcellulose,samples,1
+carboxymethylcellulose,Crystallography,1
+carboxymethylcellulose,TEM,1
+carboxymethylcellulose,titania,1
+carboxymethylcellulose,Thermogravimetry,1
+carboxymethylcellulose,transmission electron microscopy,1
+carboxymethylcellulose,anatase,1
+carboxymethylcellulose,rutile,1
+Thermogravimetry,Materials,1
+Thermogravimetry,polysaccharides,1
+Thermogravimetry,alginate,1
+Thermogravimetry,Freeze Drying,1
+Thermogravimetry,"Spectroscopy, Fourier Transform Infrared",2
+Thermogravimetry,X-Ray Diffraction,2
+Thermogravimetry,scanning electron microscopy,2
+Thermogravimetry,Biopolymers,1
+Thermogravimetry,crystallinity,1
+Thermogravimetry,gelatin,1
+Thermogravimetry,X-Ray Photoelectron Spectroscopy,1
+Thermogravimetry,samples,2
+Thermogravimetry,Crystallography,1
+Thermogravimetry,TEM,1
+Thermogravimetry,titania,1
+Thermogravimetry,carboxymethylcellulose,1
+Thermogravimetry,transmission electron microscopy,1
+Thermogravimetry,anatase,1
+Thermogravimetry,rutile,1
+Thermogravimetry,Fe3O4,1
+Thermogravimetry,magnetite,1
+Thermogravimetry,sonochemical procedure,1
+Thermogravimetry,4-nitrophenol,1
+transmission electron microscopy,Materials,1
+transmission electron microscopy,polysaccharides,1
+transmission electron microscopy,alginate,1
+transmission electron microscopy,Freeze Drying,1
+transmission electron microscopy,"Spectroscopy, Fourier Transform Infrared",1
+transmission electron microscopy,X-Ray Diffraction,1
+transmission electron microscopy,scanning electron microscopy,1
+transmission electron microscopy,Biopolymers,1
+transmission electron microscopy,gelatin,1
+transmission electron microscopy,samples,1
+transmission electron microscopy,Crystallography,1
+transmission electron microscopy,TEM,1
+transmission electron microscopy,titania,1
+transmission electron microscopy,carboxymethylcellulose,1
+transmission electron microscopy,Thermogravimetry,1
+transmission electron microscopy,anatase,1
+transmission electron microscopy,rutile,1
+anatase,Materials,1
+anatase,polysaccharides,1
+anatase,alginate,1
+anatase,Freeze Drying,1
+anatase,"Spectroscopy, Fourier Transform Infrared",1
+anatase,X-Ray Diffraction,1
+anatase,scanning electron microscopy,1
+anatase,Biopolymers,1
+anatase,gelatin,1
+anatase,samples,1
+anatase,Crystallography,1
+anatase,TEM,1
+anatase,titania,1
+anatase,carboxymethylcellulose,1
+anatase,Thermogravimetry,1
+anatase,transmission electron microscopy,1
+anatase,rutile,1
+rutile,Materials,1
+rutile,polysaccharides,1
+rutile,alginate,1
+rutile,Freeze Drying,1
+rutile,"Spectroscopy, Fourier Transform Infrared",1
+rutile,X-Ray Diffraction,1
+rutile,scanning electron microscopy,1
+rutile,Biopolymers,1
+rutile,gelatin,1
+rutile,samples,1
+rutile,Crystallography,1
+rutile,TEM,1
+rutile,titania,1
+rutile,carboxymethylcellulose,1
+rutile,Thermogravimetry,1
+rutile,transmission electron microscopy,1
+rutile,anatase,1
+electrolyte,Solutions,1
+LC-MS/MS,studies,1
+LC-MS/MS,Phytochemicals,1
+LC-MS/MS,Flavonoids,1
+LC-MS/MS,assay,1
+LC-MS/MS,Phlorizin,1
+LC-MS/MS,phenolic,1
+LC-MS/MS,phlorizin,1
+LC-MS/MS,glutathione disulfide,1
+LC-MS/MS,GSH,1
+LC-MS/MS,MDA,1
+LC-MS/MS,dexamethasone,1
+LC-MS/MS,tropane alkaloid scopolamine,1
+LC-MS/MS,beta-secretase,1
+Phlorizin,studies,1
+Phlorizin,Phytochemicals,1
+Phlorizin,Flavonoids,1
+Phlorizin,assay,1
+Phlorizin,LC-MS/MS,1
+Phlorizin,phenolic,1
+Phlorizin,phlorizin,1
+Phlorizin,glutathione disulfide,1
+Phlorizin,GSH,1
+Phlorizin,MDA,1
+Phlorizin,dexamethasone,1
+Phlorizin,tropane alkaloid scopolamine,1
+Phlorizin,beta-secretase,1
+phenolic,studies,1
+phenolic,Phytochemicals,1
+phenolic,Flavonoids,1
+phenolic,assay,1
+phenolic,LC-MS/MS,1
+phenolic,Phlorizin,1
+phenolic,phlorizin,1
+phenolic,glutathione disulfide,1
+phenolic,GSH,1
+phenolic,MDA,1
+phenolic,dexamethasone,1
+phenolic,tropane alkaloid scopolamine,1
+phenolic,beta-secretase,1
+phlorizin,studies,1
+phlorizin,Phytochemicals,1
+phlorizin,Flavonoids,1
+phlorizin,assay,1
+phlorizin,LC-MS/MS,1
+phlorizin,Phlorizin,1
+phlorizin,phenolic,1
+phlorizin,glutathione disulfide,1
+phlorizin,GSH,1
+phlorizin,MDA,1
+phlorizin,dexamethasone,1
+phlorizin,tropane alkaloid scopolamine,1
+phlorizin,beta-secretase,1
+glutathione disulfide,studies,1
+glutathione disulfide,Phytochemicals,1
+glutathione disulfide,Flavonoids,1
+glutathione disulfide,assay,1
+glutathione disulfide,LC-MS/MS,1
+glutathione disulfide,Phlorizin,1
+glutathione disulfide,phenolic,1
+glutathione disulfide,phlorizin,1
+glutathione disulfide,GSH,1
+glutathione disulfide,MDA,1
+glutathione disulfide,dexamethasone,1
+glutathione disulfide,tropane alkaloid scopolamine,1
+glutathione disulfide,beta-secretase,1
+GSH,studies,1
+GSH,Phytochemicals,1
+GSH,Flavonoids,1
+GSH,assay,1
+GSH,LC-MS/MS,1
+GSH,Phlorizin,1
+GSH,phenolic,1
+GSH,phlorizin,1
+GSH,glutathione disulfide,1
+GSH,MDA,1
+GSH,dexamethasone,1
+GSH,tropane alkaloid scopolamine,1
+GSH,beta-secretase,1
+MDA,studies,1
+MDA,Phytochemicals,1
+MDA,Flavonoids,1
+MDA,assay,1
+MDA,LC-MS/MS,1
+MDA,Phlorizin,1
+MDA,phenolic,1
+MDA,phlorizin,1
+MDA,glutathione disulfide,1
+MDA,GSH,1
+MDA,dexamethasone,1
+MDA,tropane alkaloid scopolamine,1
+MDA,beta-secretase,1
+dexamethasone,studies,1
+dexamethasone,Phytochemicals,1
+dexamethasone,Flavonoids,1
+dexamethasone,assay,1
+dexamethasone,LC-MS/MS,1
+dexamethasone,Phlorizin,1
+dexamethasone,phenolic,1
+dexamethasone,phlorizin,1
+dexamethasone,glutathione disulfide,1
+dexamethasone,GSH,1
+dexamethasone,MDA,1
+dexamethasone,tropane alkaloid scopolamine,1
+dexamethasone,beta-secretase,1
+tropane alkaloid scopolamine,studies,1
+tropane alkaloid scopolamine,Phytochemicals,1
+tropane alkaloid scopolamine,Flavonoids,1
+tropane alkaloid scopolamine,assay,1
+tropane alkaloid scopolamine,LC-MS/MS,1
+tropane alkaloid scopolamine,Phlorizin,1
+tropane alkaloid scopolamine,phenolic,1
+tropane alkaloid scopolamine,phlorizin,1
+tropane alkaloid scopolamine,glutathione disulfide,1
+tropane alkaloid scopolamine,GSH,1
+tropane alkaloid scopolamine,MDA,1
+tropane alkaloid scopolamine,dexamethasone,1
+tropane alkaloid scopolamine,beta-secretase,1
+beta-secretase,studies,1
+beta-secretase,Phytochemicals,1
+beta-secretase,Flavonoids,1
+beta-secretase,assay,1
+beta-secretase,LC-MS/MS,1
+beta-secretase,Phlorizin,1
+beta-secretase,phenolic,1
+beta-secretase,phlorizin,1
+beta-secretase,glutathione disulfide,1
+beta-secretase,GSH,1
+beta-secretase,MDA,1
+beta-secretase,dexamethasone,1
+beta-secretase,tropane alkaloid scopolamine,1
+Schiff Bases,compounds,1
+Schiff Bases,Solutions,1
+Schiff Bases,"Spectroscopy, Fourier Transform Infrared",2
+Schiff Bases,X-Ray Diffraction,1
+Schiff Bases,Mass Spectrometry,1
+Schiff Bases,iron,1
+Schiff Bases,Boranil dye,1
+Schiff Bases,1H,1
+Schiff Bases,THF,1
+Schiff Bases,magnetite,1
+Schiff Bases,M,1
+Schiff Bases,ferric ion,1
+Schiff Bases,Scanning electron microscopy,1
+Schiff Bases,cells,1
+Boranil dye,Solutions,1
+Boranil dye,"Spectroscopy, Fourier Transform Infrared",1
+Boranil dye,Schiff Bases,1
+Boranil dye,1H,1
+Boranil dye,THF,1
+1H,Solutions,1
+1H,"Spectroscopy, Fourier Transform Infrared",1
+1H,Schiff Bases,1
+1H,Boranil dye,1
+1H,THF,1
+THF,Solutions,1
+THF,"Spectroscopy, Fourier Transform Infrared",1
+THF,Schiff Bases,1
+THF,Boranil dye,1
+THF,1H,1
+air,Materials,1
+air,compounds,2
+air,analysis,1
+air,X-Ray Diffraction,1
+air,"Spectrum Analysis, Raman",2
+air,Analysis,1
+air,calcium amount,1
+air,"Spectroscopy, Mossbauer",1
+air,acetone,1
+air,thiosugars,1
+air,base,1
+air,imidazolium salts,1
+Analysis,Materials,1
+Analysis,compounds,1
+Analysis,analysis,1
+Analysis,X-Ray Diffraction,1
+Analysis,"Spectrum Analysis, Raman",1
+Analysis,air,1
+Analysis,calcium amount,1
+calcium amount,Materials,1
+calcium amount,compounds,1
+calcium amount,analysis,1
+calcium amount,X-Ray Diffraction,1
+calcium amount,"Spectrum Analysis, Raman",1
+calcium amount,air,1
+calcium amount,Analysis,1
+"Spectroscopy, Mossbauer",compounds,1
+"Spectroscopy, Mossbauer","Spectrum Analysis, Raman",1
+"Spectroscopy, Mossbauer",air,1
+ZnO,Materials,1
+ZnO,X-Ray Diffraction,1
+ZnO,MIC,1
+ZnO,MBC,1
+ZnO,metal oxide,1
+ZnO,neodymium,1
+ZnO,Oxides,1
+ZnO,infrared spectroscopy,1
+infrared spectroscopy,Materials,1
+infrared spectroscopy,X-Ray Diffraction,1
+infrared spectroscopy,MIC,1
+infrared spectroscopy,MBC,1
+infrared spectroscopy,metal oxide,1
+infrared spectroscopy,neodymium,1
+infrared spectroscopy,Oxides,1
+infrared spectroscopy,ZnO,1
+prowess,Materials,1
+Microscopy,nitrogen,1
+Microscopy,Spectrum Analysis,1
+Microscopy,water,1
+Microscopy,X-Ray Photoelectron Spectroscopy,1
+Microscopy,copper,1
+Microscopy,crystal lattice,1
+Microscopy,indole,1
+Microscopy,aryl bromides,1
+Microscopy,cupric cation,1
+Microscopy,KBr,1
+Microscopy,alpha-amino acid derivative,1
+Microscopy,perfluorocarbons,1
+Microscopy,Singlet oxygen lifetime,1
+Microscopy,perfluorodecalin,1
+crystal lattice,nitrogen,1
+crystal lattice,X-Ray Photoelectron Spectroscopy,1
+crystal lattice,copper,1
+crystal lattice,Microscopy,1
+crystal lattice,indole,1
+crystal lattice,aryl bromides,1
+crystal lattice,cupric cation,1
+crystal lattice,KBr,1
+indole,nitrogen,1
+indole,X-Ray Photoelectron Spectroscopy,1
+indole,copper,1
+indole,Microscopy,1
+indole,crystal lattice,1
+indole,aryl bromides,1
+indole,cupric cation,1
+indole,KBr,1
+aryl bromides,nitrogen,1
+aryl bromides,water,1
+aryl bromides,Phosphates,1
+aryl bromides,X-Ray Photoelectron Spectroscopy,1
+aryl bromides,copper,1
+aryl bromides,Microscopy,1
+aryl bromides,crystal lattice,1
+aryl bromides,indole,1
+aryl bromides,cupric cation,1
+aryl bromides,KBr,1
+aryl bromides,acetone,1
+aryl bromides,palladium,1
+aryl bromides,chlorides,1
+aryl bromides,aryl boronic acids,1
+cupric cation,nitrogen,1
+cupric cation,Ions,1
+cupric cation,analysis,1
+cupric cation,studies,1
+cupric cation,Pb2+,1
+cupric cation,Carbon,1
+cupric cation,water,1
+cupric cation,X-Ray Photoelectron Spectroscopy,2
+cupric cation,copper,2
+cupric cation,Microscopy,1
+cupric cation,crystal lattice,1
+cupric cation,indole,1
+cupric cation,aryl bromides,1
+cupric cation,KBr,1
+cupric cation,chitosan,1
+cupric cation,EPR spectroscopy,1
+cupric cation,Cu(I),1
+cupric cation,triazoles,1
+cupric cation,ethylenediamine,1
+KBr,nitrogen,1
+KBr,X-Ray Photoelectron Spectroscopy,1
+KBr,copper,1
+KBr,Microscopy,1
+KBr,crystal lattice,1
+KBr,indole,1
+KBr,aryl bromides,1
+KBr,cupric cation,1
+size exclusion chromatography,alginate,1
+size exclusion chromatography,X-Ray Diffraction,1
+size exclusion chromatography,water,1
+size exclusion chromatography,Lignin,1
+size exclusion chromatography,Oxides,1
+size exclusion chromatography,aromatic compounds,1
+aromatic compounds,alginate,1
+aromatic compounds,X-Ray Diffraction,1
+aromatic compounds,water,1
+aromatic compounds,Lignin,1
+aromatic compounds,Oxides,1
+aromatic compounds,size exclusion chromatography,1
+Methane,hydrate,1
+Fe3O4,"Spectroscopy, Fourier Transform Infrared",1
+Fe3O4,X-Ray Diffraction,1
+Fe3O4,scanning electron microscopy,1
+Fe3O4,crystallinity,1
+Fe3O4,X-Ray Photoelectron Spectroscopy,1
+Fe3O4,samples,1
+Fe3O4,Thermogravimetry,1
+Fe3O4,magnetite,1
+Fe3O4,sonochemical procedure,1
+Fe3O4,4-nitrophenol,1
+magnetite,compounds,1
+magnetite,"Spectroscopy, Fourier Transform Infrared",2
+magnetite,X-Ray Diffraction,2
+magnetite,Mass Spectrometry,1
+magnetite,scanning electron microscopy,1
+magnetite,crystallinity,1
+magnetite,X-Ray Photoelectron Spectroscopy,1
+magnetite,samples,1
+magnetite,iron,1
+magnetite,Thermogravimetry,1
+magnetite,Schiff Bases,1
+magnetite,Fe3O4,1
+magnetite,sonochemical procedure,1
+magnetite,4-nitrophenol,1
+magnetite,M,1
+magnetite,ferric ion,1
+magnetite,Scanning electron microscopy,1
+magnetite,cells,1
+sonochemical procedure,"Spectroscopy, Fourier Transform Infrared",1
+sonochemical procedure,X-Ray Diffraction,1
+sonochemical procedure,scanning electron microscopy,1
+sonochemical procedure,crystallinity,1
+sonochemical procedure,X-Ray Photoelectron Spectroscopy,1
+sonochemical procedure,samples,1
+sonochemical procedure,Thermogravimetry,1
+sonochemical procedure,Fe3O4,1
+sonochemical procedure,magnetite,1
+sonochemical procedure,4-nitrophenol,1
+4-nitrophenol,"Spectroscopy, Fourier Transform Infrared",1
+4-nitrophenol,X-Ray Diffraction,1
+4-nitrophenol,scanning electron microscopy,1
+4-nitrophenol,crystallinity,1
+4-nitrophenol,X-Ray Photoelectron Spectroscopy,1
+4-nitrophenol,samples,1
+4-nitrophenol,Thermogravimetry,1
+4-nitrophenol,Fe3O4,1
+4-nitrophenol,magnetite,1
+4-nitrophenol,sonochemical procedure,1
+salicylic acid,X-Ray Diffraction,1
+salicylic acid,scanning electron microscopy,1
+salicylic acid,water,1
+salicylic acid,"Spectrum Analysis, Raman",1
+salicylic acid,naproxen,1
+salicylic acid,ketoprofen,1
+salicylic acid,Fourier transform infrared spectrometry,1
+naproxen,X-Ray Diffraction,1
+naproxen,scanning electron microscopy,1
+naproxen,water,1
+naproxen,"Spectrum Analysis, Raman",1
+naproxen,salicylic acid,1
+naproxen,ketoprofen,1
+naproxen,Fourier transform infrared spectrometry,1
+ketoprofen,X-Ray Diffraction,1
+ketoprofen,scanning electron microscopy,1
+ketoprofen,water,1
+ketoprofen,"Spectrum Analysis, Raman",1
+ketoprofen,salicylic acid,1
+ketoprofen,naproxen,1
+ketoprofen,Fourier transform infrared spectrometry,1
+Fourier transform infrared spectrometry,X-Ray Diffraction,1
+Fourier transform infrared spectrometry,scanning electron microscopy,1
+Fourier transform infrared spectrometry,water,1
+Fourier transform infrared spectrometry,"Spectrum Analysis, Raman",1
+Fourier transform infrared spectrometry,salicylic acid,1
+Fourier transform infrared spectrometry,naproxen,1
+Fourier transform infrared spectrometry,ketoprofen,1
+alpha-amino acid derivative,Spectrum Analysis,1
+alpha-amino acid derivative,water,1
+alpha-amino acid derivative,Microscopy,1
+alpha-amino acid derivative,perfluorocarbons,1
+alpha-amino acid derivative,Singlet oxygen lifetime,1
+alpha-amino acid derivative,perfluorodecalin,1
+perfluorocarbons,Spectrum Analysis,1
+perfluorocarbons,water,1
+perfluorocarbons,Microscopy,1
+perfluorocarbons,alpha-amino acid derivative,1
+perfluorocarbons,Singlet oxygen lifetime,1
+perfluorocarbons,perfluorodecalin,1
+Singlet oxygen lifetime,Spectrum Analysis,1
+Singlet oxygen lifetime,water,1
+Singlet oxygen lifetime,Microscopy,1
+Singlet oxygen lifetime,alpha-amino acid derivative,1
+Singlet oxygen lifetime,perfluorocarbons,1
+Singlet oxygen lifetime,perfluorodecalin,1
+perfluorodecalin,Spectrum Analysis,1
+perfluorodecalin,water,1
+perfluorodecalin,Microscopy,1
+perfluorodecalin,alpha-amino acid derivative,1
+perfluorodecalin,perfluorocarbons,1
+perfluorodecalin,Singlet oxygen lifetime,1
+acetone,water,2
+acetone,Phosphates,2
+acetone,reactions,1
+acetone,aromatic,1
+acetone,air,1
+acetone,aryl bromides,1
+acetone,nitriles,1
+acetone,palladium,2
+acetone,amides,1
+acetone,chlorides,1
+acetone,aryl boronic acids,1
+acetone,thiosugars,1
+acetone,base,1
+acetone,imidazolium salts,1
+nitriles,water,1
+nitriles,Phosphates,1
+nitriles,reactions,1
+nitriles,aromatic,1
+nitriles,acetone,1
+nitriles,palladium,1
+nitriles,amides,1
+palladium,water,2
+palladium,Phosphates,2
+palladium,reactions,1
+palladium,aromatic,1
+palladium,aryl bromides,1
+palladium,acetone,2
+palladium,nitriles,1
+palladium,amides,1
+palladium,chlorides,1
+palladium,aryl boronic acids,1
+amides,water,1
+amides,Phosphates,1
+amides,reactions,1
+amides,aromatic,1
+amides,acetone,1
+amides,nitriles,1
+amides,palladium,1
+Isoxazoles,compounds,1
+Isoxazoles,"Crystallography, X-Ray",1
+Isoxazoles,Alkynes,1
+Isoxazoles,Alkenes,1
+Isoxazoles,Oxides,1
+Isoxazoles,Aldehydes,1
+Isoxazoles,hydroxylamine hydrochloride,1
+Isoxazoles,5b,1
+Aldehydes,compounds,1
+Aldehydes,"Crystallography, X-Ray",1
+Aldehydes,water,2
+Aldehydes,Alkynes,1
+Aldehydes,Alkenes,1
+Aldehydes,Molecule,1
+Aldehydes,benzoic acid,1
+Aldehydes,Lignin,1
+Aldehydes,vanillin,1
+Aldehydes,syringaldehyde,1
+Aldehydes,Oxides,2
+Aldehydes,Isoxazoles,1
+Aldehydes,hydroxylamine hydrochloride,1
+Aldehydes,5b,1
+Aldehydes,nanostructured pyrophosphate,1
+Aldehydes,straw,1
+Aldehydes,water-soluble oligomers,1
+hydroxylamine hydrochloride,compounds,1
+hydroxylamine hydrochloride,"Crystallography, X-Ray",1
+hydroxylamine hydrochloride,Alkynes,1
+hydroxylamine hydrochloride,Alkenes,1
+hydroxylamine hydrochloride,Oxides,1
+hydroxylamine hydrochloride,Isoxazoles,1
+hydroxylamine hydrochloride,Aldehydes,1
+hydroxylamine hydrochloride,5b,1
+5b,compounds,1
+5b,"Crystallography, X-Ray",1
+5b,Alkynes,1
+5b,Alkenes,1
+5b,Oxides,1
+5b,Isoxazoles,1
+5b,Aldehydes,1
+5b,hydroxylamine hydrochloride,1
+nanostructured pyrophosphate,water,1
+nanostructured pyrophosphate,Aldehydes,1
+sugars,pretreatment,1
+sugars,naphthalene,1
+sugars,anthracene,1
+sugars,pyrene,1
+sugars,furfural,1
+sugars,hot water,1
+sugars,organic acids,1
+sugars,substance,1
+naphthalene,sugars,1
+naphthalene,anthracene,1
+naphthalene,pyrene,1
+anthracene,sugars,1
+anthracene,naphthalene,1
+anthracene,pyrene,1
+pyrene,sugars,1
+pyrene,naphthalene,1
+pyrene,anthracene,1
+chlorides,water,1
+chlorides,Phosphates,1
+chlorides,aryl bromides,1
+chlorides,acetone,1
+chlorides,palladium,1
+chlorides,aryl boronic acids,1
+aryl boronic acids,water,1
+aryl boronic acids,Phosphates,1
+aryl boronic acids,aryl bromides,1
+aryl boronic acids,acetone,1
+aryl boronic acids,palladium,1
+aryl boronic acids,chlorides,1
+chitosan,analysis,1
+chitosan,studies,1
+chitosan,copper,1
+chitosan,cupric cation,1
+chitosan,EPR spectroscopy,1
+chitosan,Cu(I),1
+chitosan,triazoles,1
+EPR spectroscopy,analysis,1
+EPR spectroscopy,studies,1
+EPR spectroscopy,copper,1
+EPR spectroscopy,cupric cation,1
+EPR spectroscopy,chitosan,1
+EPR spectroscopy,Cu(I),1
+EPR spectroscopy,triazoles,1
+Cu(I),analysis,1
+Cu(I),studies,1
+Cu(I),copper,1
+Cu(I),cupric cation,1
+Cu(I),chitosan,1
+Cu(I),EPR spectroscopy,1
+Cu(I),triazoles,1
+triazoles,analysis,1
+triazoles,studies,1
+triazoles,copper,1
+triazoles,cupric cation,1
+triazoles,chitosan,1
+triazoles,EPR spectroscopy,1
+triazoles,Cu(I),1
+straw,water,1
+straw,Molecule,1
+straw,benzoic acid,1
+straw,Lignin,1
+straw,vanillin,1
+straw,syringaldehyde,1
+straw,Oxides,1
+straw,Aldehydes,1
+straw,water-soluble oligomers,1
+water-soluble oligomers,water,1
+water-soluble oligomers,Molecule,1
+water-soluble oligomers,benzoic acid,1
+water-soluble oligomers,Lignin,1
+water-soluble oligomers,vanillin,1
+water-soluble oligomers,syringaldehyde,1
+water-soluble oligomers,Oxides,1
+water-soluble oligomers,Aldehydes,1
+water-soluble oligomers,straw,1
+chloroquine,compounds,1
+chloroquine,Solutions,1
+chloroquine,X-Ray Diffraction,1
+chloroquine,DMSO,1
+chloroquine,antiviral brincidofovir,1
+chloroquine,imidazole ring,1
+DMSO,compounds,1
+DMSO,Solutions,1
+DMSO,X-Ray Diffraction,1
+DMSO,chloroquine,1
+DMSO,antiviral brincidofovir,1
+DMSO,imidazole ring,1
+antiviral brincidofovir,compounds,1
+antiviral brincidofovir,Solutions,1
+antiviral brincidofovir,X-Ray Diffraction,1
+antiviral brincidofovir,chloroquine,1
+antiviral brincidofovir,DMSO,1
+antiviral brincidofovir,imidazole ring,1
+imidazole ring,compounds,1
+imidazole ring,Solutions,1
+imidazole ring,X-Ray Diffraction,1
+imidazole ring,chloroquine,1
+imidazole ring,DMSO,1
+imidazole ring,antiviral brincidofovir,1
+thiosugars,air,1
+thiosugars,acetone,1
+thiosugars,base,1
+thiosugars,imidazolium salts,1
+base,air,1
+base,acetone,1
+base,thiosugars,1
+base,imidazolium salts,1
+imidazolium salts,air,1
+imidazolium salts,acetone,1
+imidazolium salts,thiosugars,1
+imidazolium salts,base,1
+furfural,pretreatment,1
+furfural,sugars,1
+furfural,hot water,1
+furfural,organic acids,1
+furfural,substance,1
+hot water,pretreatment,1
+hot water,sugars,1
+hot water,furfural,1
+hot water,organic acids,1
+hot water,substance,1
+organic acids,pretreatment,1
+organic acids,sugars,1
+organic acids,furfural,1
+organic acids,hot water,1
+organic acids,substance,1
+substance,pretreatment,1
+substance,sugars,1
+substance,furfural,1
+substance,hot water,1
+substance,organic acids,1
+chemical elements,phosphorus,1
+chemical elements,Materials,1
+chemical elements,Solutions,1
+chemical elements,Ions,1
+chemical elements,Molecule,1
+chemical elements,hydronium ion,1
+chemical elements,H3O+,1
+chemical elements,hydrogen atom and ion,1
+chemical elements,hydroxide ion,1
+hydronium ion,phosphorus,1
+hydronium ion,Materials,1
+hydronium ion,Solutions,1
+hydronium ion,Ions,1
+hydronium ion,Molecule,1
+hydronium ion,chemical elements,1
+hydronium ion,H3O+,1
+hydronium ion,hydrogen atom and ion,1
+hydronium ion,hydroxide ion,1
+H3O+,phosphorus,1
+H3O+,Materials,1
+H3O+,Solutions,1
+H3O+,Ions,1
+H3O+,Molecule,1
+H3O+,chemical elements,1
+H3O+,hydronium ion,1
+H3O+,hydrogen atom and ion,1
+H3O+,hydroxide ion,1
+hydrogen atom and ion,phosphorus,1
+hydrogen atom and ion,Materials,1
+hydrogen atom and ion,Solutions,1
+hydrogen atom and ion,Ions,1
+hydrogen atom and ion,Molecule,1
+hydrogen atom and ion,chemical elements,1
+hydrogen atom and ion,hydronium ion,1
+hydrogen atom and ion,H3O+,1
+hydrogen atom and ion,hydroxide ion,1
+hydroxide ion,phosphorus,1
+hydroxide ion,Materials,1
+hydroxide ion,Solutions,1
+hydroxide ion,Ions,1
+hydroxide ion,Molecule,1
+hydroxide ion,chemical elements,1
+hydroxide ion,hydronium ion,1
+hydroxide ion,H3O+,1
+hydroxide ion,hydrogen atom and ion,1
+nucleic acid analysis,proteins,1
+ethylenediamine,Ions,1
+ethylenediamine,Pb2+,1
+ethylenediamine,Carbon,1
+ethylenediamine,water,1
+ethylenediamine,X-Ray Photoelectron Spectroscopy,1
+ethylenediamine,cupric cation,1
+phosphoryl chloride,phosphorus,1
+phosphoryl chloride,cellulose,1
+phosphoryl chloride,Anions,1
+phosphoryl chloride,Phosphonates,1
+phosphoryl chloride,metal oxide,1
+phosphoryl chloride,hexachlorocyclotriphosphazene,1
+phosphoryl chloride,modified cellulose,1
+phosphoryl chloride,carboxymethylcellulose analogues,1
+hexachlorocyclotriphosphazene,phosphorus,1
+hexachlorocyclotriphosphazene,cellulose,1
+hexachlorocyclotriphosphazene,Anions,1
+hexachlorocyclotriphosphazene,Phosphonates,1
+hexachlorocyclotriphosphazene,metal oxide,1
+hexachlorocyclotriphosphazene,phosphoryl chloride,1
+hexachlorocyclotriphosphazene,modified cellulose,1
+hexachlorocyclotriphosphazene,carboxymethylcellulose analogues,1
+modified cellulose,phosphorus,1
+modified cellulose,cellulose,1
+modified cellulose,Anions,1
+modified cellulose,Phosphonates,1
+modified cellulose,metal oxide,1
+modified cellulose,phosphoryl chloride,1
+modified cellulose,hexachlorocyclotriphosphazene,1
+modified cellulose,carboxymethylcellulose analogues,1
+carboxymethylcellulose analogues,phosphorus,1
+carboxymethylcellulose analogues,cellulose,1
+carboxymethylcellulose analogues,Anions,1
+carboxymethylcellulose analogues,Phosphonates,1
+carboxymethylcellulose analogues,metal oxide,1
+carboxymethylcellulose analogues,phosphoryl chloride,1
+carboxymethylcellulose analogues,hexachlorocyclotriphosphazene,1
+carboxymethylcellulose analogues,modified cellulose,1
+atoms,Solutions,1
+atoms,studies,1
+atoms,X-Ray Diffraction,1
+atoms,Molecule,1
+atoms,MEP,1
+atoms,labile,1
+labile,Solutions,1
+labile,studies,1
+labile,X-Ray Diffraction,1
+labile,Molecule,1
+labile,MEP,1
+labile,atoms,1
+M,compounds,1
+M,"Spectroscopy, Fourier Transform Infrared",1
+M,X-Ray Diffraction,1
+M,Mass Spectrometry,1
+M,iron,1
+M,Schiff Bases,1
+M,magnetite,1
+M,ferric ion,1
+M,Scanning electron microscopy,1
+M,cells,1
+ferric ion,compounds,1
+ferric ion,"Spectroscopy, Fourier Transform Infrared",1
+ferric ion,X-Ray Diffraction,1
+ferric ion,Mass Spectrometry,1
+ferric ion,iron,1
+ferric ion,Schiff Bases,1
+ferric ion,magnetite,1
+ferric ion,M,1
+ferric ion,Scanning electron microscopy,1
+ferric ion,cells,1
+Scanning electron microscopy,compounds,1
+Scanning electron microscopy,"Spectroscopy, Fourier Transform Infrared",1
+Scanning electron microscopy,X-Ray Diffraction,1
+Scanning electron microscopy,Mass Spectrometry,1
+Scanning electron microscopy,iron,1
+Scanning electron microscopy,Schiff Bases,1
+Scanning electron microscopy,magnetite,1
+Scanning electron microscopy,M,1
+Scanning electron microscopy,ferric ion,1
+Scanning electron microscopy,cells,1
+cells,compounds,1
+cells,"Spectroscopy, Fourier Transform Infrared",1
+cells,X-Ray Diffraction,1
+cells,Mass Spectrometry,1
+cells,iron,1
+cells,Schiff Bases,1
+cells,magnetite,1
+cells,M,1
+cells,ferric ion,1
+cells,Scanning electron microscopy,1
+nitrides,Materials,1
+nitrides,manganese,1
+nitrides,lithium,1
+nitrides,ammonia,1
+nitrides,in situ neutron diffraction studies,1
+ammonia,Materials,1
+ammonia,manganese,1
+ammonia,lithium,1
+ammonia,nitrides,1
+ammonia,in situ neutron diffraction studies,1
+in situ neutron diffraction studies,Materials,1
+in situ neutron diffraction studies,manganese,1
+in situ neutron diffraction studies,lithium,1
+in situ neutron diffraction studies,nitrides,1
+in situ neutron diffraction studies,ammonia,1
